@@ -19,6 +19,7 @@ class TorrelodonesBudgetLoader(SimpleBudgetLoader):
             'is_actual': (line[2].strip() != 'P'),  # Projected (budget) or actual amount (execution)
             'fc_code': line[3].strip(),
             'ec_code': line[4].strip(),
+            'item_number': line[4][-2:],            # Last two digits
             'ic_code': '100',                       # We don't have this breakdown, so all goes to catch-all object
             'description': line[5].strip(),
             'amount': self._parse_amount(line[6])
