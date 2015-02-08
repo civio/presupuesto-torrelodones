@@ -1,161 +1,76 @@
-#Area,Politica,Grupo,Programa,Descripcion
+#Área,Política,Grupo,Programa,Descripción
+#
+# Áreas de gasto y Políticas, definidas en la Orden HAP/419/2014 y comunes a todas las EELL.
+# Ver http://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-2922
 0,,,,Deuda pública
 0,1,,,Deuda pública
-0,1,1,,Deuda pública
-0,1,1,0,Deuda pública
 1,,,,Servicios públicos básicos
 1,3,,,Seguridad y movilidad ciudadana
-1,3,0,,Administración general de la seguridad y protección civil
-1,3,2,,Seguridad y orden público
-1,3,2,0,Seguridad y orden público 
-1,3,3,,Ordenación del tráfico y del estacionamiento
-1,3,4,,Protección civil
-1,3,4,0,Protección civil
-1,3,5,,Servicio de extinción de incendios
 1,5,,,Vivienda y urbanismo
-1,5,0,,Administración general de vivienda y urbanismo
-1,5,0,0,Administracion general de vivienda y urbanismo: inversiones 
-1,5,1,,Urbanismo
-1,5,1,0,Urbanismo
-1,5,2,,Vivienda
-1,5,3,,Acceso a la vivienda
-1,5,4,,Fomento de la edificacion protegida
-1,5,5,,Vias públicas
-1,5,5,0,Vías públicas
 1,6,,,Bienestar comunitario
-1,6,1,,"Saneamiento, abastecimiento y distribución de agua"
-1,6,1,0,"Saneamiento, abastecimiento y distribución de agua "
-1,6,2,,"Recogida, eliminacion y tratamiento de residuos"
-1,6,2,0,"Recogida, eliminación y tratamiento de residuos "
-1,6,3,,Limpieza viaria
-1,6,3,0,Limpieza viaria
-1,6,4,,Cementerios y servicios funerarios
-1,6,5,,Alumbrado público
-1,6,5,0,Alumbrado público
-1,6,9,,Otros servicios de bienestar comunitario
-1,6,9,0,Otros servicios de bienestar comunitario
 1,7,,,Medio ambiente
-1,7,0,,Administración general del medio ambiente
-1,7,0,0,Administración general del medio ambiente
-1,7,1,,Parques y jardines
-1,7,1,0,Parques y jardines
-1,7,2,,Protección y mejora del medio ambiente
-1,7,9,,Otras actuaciones relacionadas con el medio ambiente
 2,,,,Actuaciones de protección y promoción social
 2,1,,,Pensiones
-2,1,1,,Pensiones
 2,2,,,Otras prestaciones económicas a favor de empleados
-2,2,1,,Otras prestaciones económicas a favor de empleados
 2,3,,,Servicios sociales y promoción social
-2,3,0,,Administración general de servicios sociales
-2,3,1,,Accion social
-2,3,1,0,Acción social: personal
-2,3,1,1,Acción social: servicios sociales
-2,3,2,,Promoción social
-2,3,2,0,Promoción social: juventud
-2,3,3,,Asistencia a personas dependientes
 2,4,,,Fomento del empleo
-2,4,1,,Fomento del empleo
-2,4,1,0,Desarrollo local
-2,4,1,1,Fomento del empleo: garantía social
 3,,,,Produccion de bienes públicos de caracter preferente
 3,1,,,Sanidad
-3,1,2,,"Hospitales, servicios asistenciales y centros de salud"
-3,1,2,0,Sanidad
-3,1,3,,Acciones públicas relativas a la salud
-3,1,3,0,Acciones públicas relativas a la salud
 3,2,,,Educación
-3,2,0,,Administración general de educación
-3,2,1,,Enseñanza preescolar y primaria
+3,3,,,Cultura
+3,4,,,Deporte
+4,,,,Actuaciones de caracter económico
+4,1,,,Agricultura ganadería y pesca
+4,2,,,Industria y energía
+4,3,,,"Comercio, turismo y pequeñas y medianas empresas"
+4,4,,,Transporte público
+4,5,,,Infraestructuras
+4,6,,,"Investigación, desarrollo e innovación"
+4,9,,,Otras actuaciones de caracter económico
+9,,,,Actuaciones de caracter general
+9,1,,,Órganos de gobierno
+9,2,,,Servicios de carácter general
+9,3,,,Administración financiera y tributaria
+9,4,,,Transferencias a otras administraciónes públicas
+#
+# Programas específicos de Torrelodones
+0,1,1,0,Deuda pública
+1,3,2,0,Seguridad y orden público 
+1,3,4,0,Protección civil
+1,5,0,0,Administracion general de vivienda y urbanismo: inversiones 
+1,5,1,0,Urbanismo
+1,5,5,0,Vías públicas
+1,6,1,0,"Saneamiento, abastecimiento y distribución de agua "
+1,6,2,0,"Recogida, eliminación y tratamiento de residuos "
+1,6,3,0,Limpieza viaria
+1,6,5,0,Alumbrado público
+1,6,9,0,Otros servicios de bienestar comunitario
+1,7,0,0,Administración general del medio ambiente
+1,7,1,0,Parques y jardines
+2,3,1,0,Acción social: personal
+2,3,1,1,Acción social: servicios sociales
+2,3,2,0,Promoción social: juventud
+2,4,1,0,Desarrollo local
+2,4,1,1,Fomento del empleo: garantía social
+3,1,2,0,Sanidad
+3,1,3,0,Acciones públicas relativas a la salud
 3,2,1,0,Educación
 3,2,1,1,Escuela infantil
-3,2,2,,Enseñanza secundaria
-3,2,3,,Promoción educativa
 3,2,3,0,Promoción educativa: educación de adultos
-3,2,4,,Servicios complementarios de educación
-3,3,,,Cultura
-3,3,0,,Administración general de cultura
 3,3,0,0,Administración general de cultura
 3,3,0,1,Administración general de cultura: escuela de música
 3,3,0,2,Administración general de cultura: escuela de idiomas
-3,3,2,,Bibliotecas y archivos
 3,3,2,0,Bibliotecas
-3,3,3,,Museos y artes plásticas
-3,3,4,,Promoción cultural
-3,3,5,,Artes escénicas
-3,3,6,,Arqueología y protección del patrimonio historico-artistico
-3,3,7,,Ocio y tiempo libre
-3,3,8,,Fiestas populares y festejos
 3,3,8,0,Fiestas populares y festejos
-3,4,,,Deporte
-3,4,0,,Administración general de deportes
 3,4,0,0,Administración general de deportes
 3,4,0,2,Administración general de deportes: Torreforum
-3,4,1,,Promoción y fomento del deporte
-3,4,2,,Instalaciones deportivas
-4,,,,Actuaciones de caracter económico
-4,1,,,Agricultura ganadería y pesca
-4,1,0,,Administración general de agricultura ganadería y pesca
-4,1,2,,Mejora de las estructuras agropecuarias y de los sistemas productivos
-4,1,4,,Desarrollo rural
-4,1,5,,Protección y desarrollo de los recursos pesqueros
-4,1,9,,"Otras actuaciones en agricultura, ganadería y pesca"
-4,2,,,Industria y energía
-4,2,0,,Administración general de industria y energía
-4,2,2,,Industria
-4,2,3,,Minería
-4,2,5,,Energía
-4,3,,,"Comercio, turismo y pequeñas y medianas empresas"
-4,3,0,,"Administración general de comercio, turismo y pequeñas y medianas empresas"
 4,3,0,0,Administración general de turismo
-4,3,1,,Comercio
-4,3,2,,Ordenación y promoción turistica
-4,3,3,,Desarrollo empresarial
-4,3,9,,Otras actuaciones sectoriales
-4,4,,,Transporte público
-4,4,0,,Administración general del transporte
 4,4,0,0,Administración general del transporte
-4,4,1,,Promoción mantenimiento y desarrollo del transporte
-4,4,2,,Infraestructuras del transporte
-4,5,,,Infraestructuras
-4,5,0,,Administración general de infraestructuras
-4,5,2,,Recursos hidráulicos
-4,5,3,,Carreteras
-4,5,4,,Caminos vecinales
-4,5,9,,Otras infraestructuras
-4,6,,,"Investigación, desarrollo e innovación"
-4,6,2,,Investigación y estudios relacionados con los servicios públicos
-4,6,3,,"Investigación cientifica, técnica y aplicada"
-4,9,,,Otras actuaciones de caracter económico
-4,9,1,,Sociedad de la informacion
-4,9,2,,Gestión del conocimiento
-4,9,3,,Oficinas de defensa al consumidor
-9,,,,Actuaciones de caracter general
-9,1,,,Órganos de gobierno
-9,1,2,,Órganos de gobierno
 9,1,2,0,Órganos de gobierno
-9,2,,,Servicios de carácter general
-9,2,0,,Administración general
 9,2,0,0,Administración general: secretaría
 9,2,0,1,Administración general: servicios informáticos
 9,2,0,2,Administración general: servicios centrales
-9,2,2,,Coordinacion y organización institucional de las Entidades Locales
-9,2,3,,Informacion básica y estadística
-9,2,4,,Participación ciudadana
 9,2,4,0,Medios de comunicación social
-9,2,5,,Atención a los ciudadanos
 9,2,5,0,Atención a los ciudadanos
-9,2,6,,Comunicaciones internas
-9,2,9,,Imprevistos y funciones no clasificadas
-9,3,,,Administración financiera y tributaria
-9,3,1,,Politica económica y fiscal
 9,3,1,0,Política económica y fiscal - intervención
-9,3,2,,Gestión del sistema tributario
-9,3,3,,Gestión del patrimonio
-9,3,4,,Gestión de la deuda y de la tesoreria
 9,3,4,1,Tesorería
-9,4,,,Transferencias a otras administraciónes públicas
-9,4,1,,Transferencias a Comunidades Autónomas
-9,4,2,,Transferencias a Entidades Locales territoriales
-9,4,3,,Transferencias a otras Entidades Locales
-9,4,4,,Transferencias a la Administración General del Estado
