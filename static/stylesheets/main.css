@@ -3493,10 +3493,9 @@ header[role="banner"] {
   clear: both;
 }
 .home-intro .options > div {
-  float: left;
   margin: 0 2% .25em 0;
-  padding: 10em 2% 1px;
-  width: 28%;
+  padding: 10em 5% 1px;
+  width: 90%;
   font-size: 1.143em;
   text-align: center;
   -webkit-border-radius: 0.5em;
@@ -3555,7 +3554,7 @@ header[role="banner"] {
   color: #009973;
 }
 .home-intro .option-policies {
-  background: url(../assets/option-policies.png) no-repeat 20px -20px;
+  background: url(../assets/option-policies.png) no-repeat center -38px;
 }
 .home-intro .option-policies .icon {
   color: #000d99;
@@ -3571,6 +3570,17 @@ header[role="banner"] {
 }
 .home-intro .option-payments .icon {
   color: #993300;
+}
+@media screen and (min-width: 48em) {
+  .home-intro .options > div {
+    float: left;
+    width: 28%;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  .home-intro .option-policies {
+    background-position: 20px -20px;
+  }
 }
 .button.magenta {
   background-color: #009973;
@@ -4718,8 +4728,16 @@ a.avatar:hover {
   display: block;
   text-transform: uppercase;
 }
-.total b {
+.total .main-amount {
   display: block;
+}
+.total .secondary-label {
+  font-size: 16px;
+}
+.total .secondary-amount {
+  display: block;
+  font-size: 16px;
+  font-weight: 400;
 }
 .tiny-shadow-black {
   -webkit-box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.1);
