@@ -3515,10 +3515,14 @@ header[role="banner"] {
   list-style-type: none;
   margin-left: 0;
   padding-left: 0;
+  margin-bottom: 0.9em;
 }
 .home-intro .options > div ul > li {
   list-style: none;
   list-style-type: none;
+}
+.home-intro .options > div li {
+  height: 1.4em;
 }
 .home-intro .options > div:hover {
   background-color: #000000;
@@ -5305,7 +5309,7 @@ Ese "25" es lo que indenta.
   *zoom: 1;
   list-style: none;
   list-style-type: none;
-  margin: 0 .25em .25em 0;
+  margin: 0 .4em .25em 0.4em;
   vertical-align: middle;
 }
 [class^="addthis_button_"] {
@@ -6365,6 +6369,26 @@ table [class^="h-"] {
   height: 450px;
   margin: 0;
   width: 100%;
+}
+.page-title#indicadores {
+  padding-top: 30px;
+}
+#totals_panel {
+  background: white;
+  margin-bottom: 12px;
+  border-radius: 0.5em;
+  border: 1px solid #e6e6e6;
+}
+#totals_panel .total {
+  border-bottom: none;
+  margin: 0;
+}
+#totals_panel .total:first-child {
+  border-top: none;
+}
+#totals_panel abbr[title],
+#totals_panel dfn[title] {
+  border-bottom: none;
 }
 .fl {
   float: left;
