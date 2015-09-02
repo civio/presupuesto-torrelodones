@@ -1,0 +1,85 @@
+#Año,Tipo,Presupuesto,Concepto,Descripción,Crédito
+2015,I,P,11200,IMPTO SOBRE BIENES INMUEBLES. BIENES INMUEB DE NAT RÚSTICA,350
+2015,I,P,11300,Impto. sobre Bienes Inmuebles de Naturaleza Urbana,9550000
+2015,I,P,11400,Impto. sobre Bienes Inmuebles Características Especiales,0
+2015,I,P,11500,Impuesto sobre Vehículos de Tracción Mecánica,711000
+2015,I,P,11600,Impuesto sobre incremento del valor de los terrenos,1600000
+2015,I,P,13000,Impuesto sobre actividades económicas,1230000
+2015,I,P,17100,RECARGO PROVINCIAL SOBRE I.A.E.,0
+2015,I,P,29000,"Impuesto sobre Construcciones, Instalaciones y Obras",400000
+2015,I,P,30001,Tasa servicio distribución agua urbanizaciones,0
+2015,I,P,30200,Tasas por recogida de basuras y residuos sólidos urbanos,710000
+2015,I,P,30900,Tasas concesiones cementerio municipal,0
+2015,I,P,31199,OTROS SERVICIOS ASISTENCIALES,0
+2015,I,P,31300,TASAS ENSEÑANZAS ESPECIALES Y ACTIVIDADES,235000
+2015,I,P,31302,"TASAS PADEL, TENIS, FRONTENIS Y SQUASH",28000
+2015,I,P,31303,TASAS CENSIÓN CANCHAS,1150
+2015,I,P,31304,TASAS CUOTAS ABONO INSTALACIONES,95000
+2015,I,P,31305,TASAS PISCINA CUBIERTA,0
+2015,I,P,32100,Tasas por concesión de licencias urbanísticas,125000
+2015,I,P,32200,Licencias de primera ocupación,90000
+2015,I,P,32500,Tasa por expedición de documentos,13000
+2015,I,P,32700,Licencias de apertura de establecimientos,25000
+2015,I,P,32900,Tasa por apertura anual de piscinas de uso colectivo,27000
+2015,I,P,33003,TASA POR VADOS Y RESERVAS EN LA VIA PUBLICA,1000
+2015,I,P,33100,Tasa de entrada de vehículos,0
+2015,I,P,33200,Tasa por utilizacion priv. o aprov. especial empresas sumin.,350000
+2015,I,P,33400,Tasa por apertura de calas y zanjas,500
+2015,I,P,33500,Tasa por ocupación de la vía pública con terrazas,35000
+2015,I,P,33600,Tasa por o.v.p. con suspensión temporal del tráfico rodado,8000
+2015,I,P,33700,Tasa por aprovechamiento del vuelo (grúas),2000
+2015,I,P,33800,Otros aprovechamientos especiales compensación Telefónica,90000
+2015,I,P,33900,Otras tasas por ocupación de vía pública,25000
+2015,I,P,33902,Tasas de retirada de vehículos (grúas),12000
+2015,I,P,33903,Tasa por cesión de instalaciones en dominio público,20000
+2015,I,P,33904,Tasas de o.v.p. con puestos y barracas,7500
+2015,I,P,34200,Precios públicos. Escuela de Idiomas,390000
+2015,I,P,34201,Precios públicos escuela infantil,340000
+2015,I,P,34202,Precios públicos. Escuela de Música y Danza,320000
+2015,I,P,34203,Precios públicos. Cursos y Actividades.,55000
+2015,I,P,34300,Precios públicos por prestación de servicio en Deportes,150000
+2015,I,P,34400,Precios públicos por asistencia a espectáculos,90000
+2015,I,P,34900,Precios públicos por publicidad en Revista Municipal,37000
+2015,I,P,34901,Precios públicos por casa de juventud,25000
+2015,I,P,34902,Precios públicos por servicio de bodas,25000
+2015,I,P,34903,Precios públicos libro de Torrelodones,0
+2015,I,P,34904,Precios públicos por transporte escolar,58000
+2015,I,P,34905,Precios públicos por gabinete psicológico,0
+2015,I,P,34906,PRECIO PUBLICO SUMINISTRO AGUA HUERTOS URBANOS,0
+2015,I,P,34907,Precios públicos talleres Servicios Sociales,0
+2015,I,P,38900,REINTEGROS DE PRESUPUESTOS CERRADOS,5000
+2015,I,P,39100,Multas por infracciones urbanísticas,10000
+2015,I,P,39103,Sanciones medioambientales,30000
+2015,I,P,39120,Multas por infracciones de la Ordenanza de Circulación.,150000
+2015,I,P,39190,Otras multas y sanciones,30000
+2015,I,P,39200,RECARGO POR DECLARACIÓN EXTEMPORÁNEA SIN REQUERIMI. PREVIO,40000
+2015,I,P,39211,RECARGO DE APREMIO.,260000
+2015,I,P,39300,INTERESES DE DEMORA,120000
+2015,I,P,39620,Cuotas mantenimiento Entidad Urbanistica,0
+2015,I,P,39710,OTROS INGRESOS POR APROVECHAMIENTOS URBANÍSTICOS.,0
+2015,I,P,39800,Indemnizaciones de seguros de no vida,5000
+2015,I,P,39901,Otros ingresos diversos,35000
+2015,I,P,39902,Otros recargos. Costas.,40000
+2015,I,P,39903,Otros ingresos. Recogida selectiva envases,90000
+2015,I,P,39904,Otros ingresos. Fondo reposición arbolado,60000
+2016,I,P,39905,OTROS INGRESOS DIVERDOS. RECOGIDAS RAEE,300
+2017,I,P,39906,Ingresos por ejecución subsidiaria,0
+2018,I,P,42000,Participación en los tributos del Estado,4800000
+2019,I,P,45000,Participación en los tributos de la Comunidad Autónoma,0
+2020,I,P,45060,OTRAS TRANS CTES EN CUMPLIMIENTO DE CONV SUSCRITOS CON C.A,869000
+2021,I,P,45300,DE EMPRESAS PUBLICAS Y OTROS ENTES PUBLICOS,0
+2022,I,P,46301,TRANSFERENCIAS CORRIENTES DE MANCOMUNIDADES,140000
+2023,I,P,47000,TRANSFERENCIAS DE EMPRESAS PRIVADAS,10000
+2024,I,P,51801,Intereses de anticipos y prestamos al personal,500
+2025,I,P,52100,INTERESES DE DEPOSITOS,5000
+2026,I,P,53410,DE SOC Y ENTIDADES NO DEPENDIENTES DE LAS ENTIDADES LOCALES.,79000
+2027,I,P,55000,Concesiones administrativas de contraprestación periódica,210000
+2028,I,P,55001,Concesiones adtivas. contraprestación periódica (bares),4700
+2029,I,P,55200,Concesiones y aprovechamientos. Derechos de superficie.,360000
+2030,I,P,61900,Venta de inmuebles,0
+2031,I,P,75060,OTRAS TRANSF DE CAPITAL EN CUMP DE CONV SUSCRITOS CON LA C.A,0
+2032,I,P,77000,TRANSFERENCIA CAPITAL EMPRESAS PRIVADAS,0
+2033,I,P,83000,REINTEGRO DE PAGAS ANTICIPADAS AL PERSONAL FUNCIONARIO,63000
+2034,I,P,87000,PARA GASTOS GENERALES.,0
+2035,I,P,87010,PARA GASTOS CON FINANCIACIÓN AFECTADA.,0
+2036,I,P,91300,Préstamos recibidos a largo plazo,0
