@@ -1,0 +1,332 @@
+#Año,Tipo,Presupuesto,Programa,Concepto,Descripción,Crédito
+2015,G,E,0110,31004,Intereses DEXIA SABADELL préstamo 2008 nº 36154507,970.68
+2015,G,E,0110,31020,Intereses Bankia nº 9.315.551/13- Inv. 2.004,198.98
+2015,G,E,0110,91304,Amortización DEXIA SABADELL préstamo 2008 nº 36154507,34938.86
+2015,G,E,0110,91320,Amortización Bankia nº 9.315.551/13-Inv. 2004,18327.65
+2015,G,E,1320,12001,Retribuciones básicas. Sueldos del Grupo A2,2876.94
+2015,G,E,1320,12003,Retribuciones básicas. Sueldos del Grupo C1,6004.3
+2015,G,E,1320,12004,Retribuciones básicas. Sueldos del Grupo C2,117939.52
+2015,G,E,1320,12006,Retribuciones básicas. Trienios,12020.4
+2015,G,E,1320,12100,Retribuciones complementarias. Complemento de destino,47523.42
+2015,G,E,1320,12101,Retribucones complementarias. Complemento específico,173665.85
+2015,G,E,1320,15000,Complemento de productividad,83417.58
+2015,G,E,1320,15100,Gratificaciones,14474.59
+2015,G,E,1320,16000,Seguridad Social. Personal funcionario,136662.49
+2015,G,E,1320,20200,Arrendamientos de edificios y otras construcciones,2548.62
+2015,G,E,1320,20400,Arrendamiento material de transporte,1785.34
+2015,G,E,1320,21400,Reparación y mantenimiento material de transporte,461.08
+2015,G,E,1320,22103,Combustible y carburantes,5002.87
+2015,G,E,1320,22199,Otros suministros,144.08
+2015,G,E,1320,22603,Publicación en diarios oficiales,1376.83
+2015,G,E,1320,22699,Otros gastos diversos,597.52
+2015,G,E,1320,22799,Otros trabajos realizados por otras emrpresas y profesionale,738.98
+2015,G,E,1350,13000,Retribuciones básicas,19866.23
+2015,G,E,1350,13001,Horas extraordinarias,1361.37
+2015,G,E,1350,13002,Otras remuneraciones,1798.26
+2015,G,E,1350,13010,Productividad,524.4
+2015,G,E,1350,16001,Seguridad Social. Personal laboral,1610.82
+2015,G,E,1350,21400,"Reparaciones, mantenimiento y conservación. Material de tran",713.54
+2015,G,E,1350,22103,Combustible y carburantes,186.17
+2015,G,E,1350,22105,Productos alimenticios,446.38
+2015,G,E,1350,22199,Otros suministros,70.32
+2015,G,E,1350,22799,Otros trabajos realizados por otras emrpresas y profesionale,445.79
+2015,G,E,1360,22501,Tributos de las Comunidades Autónomas,352427.93
+2015,G,E,1510,12000,Retribuciones básicas. Sueldos del Grupo A1,7497.53
+2015,G,E,1510,12001,Retribuciones básicas. Sueldos del Grupo A2,9730.34
+2015,G,E,1510,12003,Retribuciones básicas. Sueldos del Grupo C1,4951.97
+2015,G,E,1510,12004,Retribuciones básicas. Sueldos del Grupo C2,4100.72
+2015,G,E,1510,12006,Retribuciones básicas. Trienios,6210
+2015,G,E,1510,12100,Retribuciones complementarias. Complemento de destino,16705.98
+2015,G,E,1510,12101,Retribuciones complementarias. Complemento específico,28283.34
+2015,G,E,1510,15000,Complemento de productividad,20375.65
+2015,G,E,1510,16000,Seguridad Social. Personal funcionario,27027.89
+2015,G,E,1510,20000,Arrendamientos de terrenos y bienes naturales,12245.58
+2015,G,E,1510,22699,Otros gastos diversos,7.3
+2015,G,E,1510,22706,Estudios y trabajos técnicos,19553.6
+2015,G,E,1510,44900,Subvenciones a sociedades mercantiles de la Entidad Local,41000
+2015,G,E,1532,21003,Mantenimiento vías publicas,31923.81
+2015,G,E,1532,22199,Otros suministros,619.52
+2015,G,E,1533,13000,Retribuciones básicas,51650.36
+2015,G,E,1533,13001,Horas extraordinarias,502.24
+2015,G,E,1533,13002,Otras remuneraciones,3095.91
+2015,G,E,1533,13010,Productividad personal laboral,10303.1
+2015,G,E,1533,14300,Otro personal laboral,12317.62
+2015,G,E,1533,16001,Seguridad Social. Personal laboral,25152.77
+2015,G,E,1533,20400,Arrenadmiento material de transporte,6568.18
+2015,G,E,1533,21003,Mantenimiento vías públicas,28547.53
+2015,G,E,1533,21200,Reparacion y matenimiento edificios y otras constr.,343.29
+2015,G,E,1533,21300,"Reparación y mantenimiento maquinaria, instalaciones y utill",5967.79
+2015,G,E,1533,21400,Reparación y mantenimiento material de transporte,856.21
+2015,G,E,1533,22101,Agua,11784.03
+2015,G,E,1533,22103,Combustible y carburantes,1756.03
+2015,G,E,1533,22199,Otros suministros,8743.96
+2015,G,E,1533,22799,Otros trabajos realizados por otras empresas,1129.04
+2015,G,E,1533,63100,Inversión en terrenos y bienes naturales,11900
+2015,G,E,1621,22502,Tributos de las Entidades Locales,47622.84
+2015,G,E,1621,22799,Otros trabajos realizados por otras emrpresas y profesionale,193641.85
+2015,G,E,1621,61900,Otras inversiones de reposición de infraestructuras y bienes,19819.12
+2015,G,E,1630,22700,Limpieza y aseo,166304.86
+2015,G,E,1650,21002,Mantenimiento alumbrado publico,20063.25
+2015,G,E,1650,22100,Energía eléctrica,16866.36
+2015,G,E,1700,12001,Retribuciones básicas. Sueldos del Grupo A2,3231.26
+2015,G,E,1700,12003,Retribuciones básicas. Sueldos del Grupo C1,2454.13
+2015,G,E,1700,12004,Retribuciones básicas. Sueldos del Grupo C2,2048.24
+2015,G,E,1700,12006,Retribuciones básicas. Trienios,1026.69
+2015,G,E,1700,12100,Retribuciones complementarias. Complemento de destino,4532.14
+2015,G,E,1700,12101,Retribuciones complementarias. Complemento específico,5678.21
+2015,G,E,1700,13000,Retribuciones básicas,11964.75
+2015,G,E,1700,13001,Horas extraordinarias,2080.08
+2015,G,E,1700,13002,Otras remuneraciones,682.56
+2015,G,E,1700,13010,Productividad personal laboral,2193.35
+2015,G,E,1700,14300,Otro personal laboral,11470.72
+2015,G,E,1700,15000,Complemento de productividad,4632.18
+2015,G,E,1700,16000,Seguridad Social. Personal funcionario,7412.43
+2015,G,E,1700,16001,Seguridad Social. Personal laboral,5876.22
+2015,G,E,1700,20400,Arrendamiento material de transporte,596.95
+2015,G,E,1700,21000,Mantenimiento y conservación arbolado,6692.4
+2015,G,E,1700,21001,Mantenimiento - fajas contra incendios,14342.2
+2015,G,E,1700,22104,Vestuario,1653.4
+2015,G,E,1700,22199,Otros suministros,647.56
+2015,G,E,1700,22799,Otros trabajos realizados or otras empresas,25554.51
+2015,G,E,1710,21001,Mantenimiento parques y jardines,87280.27
+2015,G,E,2210,16204,Acción social personal funcionario,24947.86
+2015,G,E,2210,16205,Seguros,2914.59
+2015,G,E,2210,16300,Formación y perfeccionamiento personal laboral,686
+2015,G,E,2210,16304,Acción social personal laboral,16216
+2015,G,E,2210,23030,Dietas del personal,480.06
+2015,G,E,2210,23300,Otras indemnizaciones,2469.33
+2015,G,E,2210,83001,Préstamos al personal,23719.4
+2015,G,E,2210,83101,PRÉSTAMOS AL PERSONAL A LARGO PLAZO,16622.6
+2015,G,E,2310,12001,Retribuciones básicas. Sueldos del Grupo A2,3273.92
+2015,G,E,2310,12003,Retribuciones básicas. Sueldos del Grupo C1,2459.59
+2015,G,E,2310,12006,Retribuciones básicas. Trienios,1620.99
+2015,G,E,2310,12100,Retribuciones complementarias. Complemento de destino,3624.12
+2015,G,E,2310,12101,Retribuciones complementarias. Complemento específico,5703.23
+2015,G,E,2310,13000,Retribuciones básicas,33904.96
+2015,G,E,2310,13002,Otras remuneraciones,2574.46
+2015,G,E,2310,13010,Productividad Personal Laboral,2712.81
+2015,G,E,2310,14300,Otro personal laboral,282.28
+2015,G,E,2310,15000,Complemento de Productividad.,3437.55
+2015,G,E,2310,16000,Seguridad Social. Personal funcionario,5691.54
+2015,G,E,2310,16001,Seguridad Social. Personal laboral,12229.14
+2015,G,E,2310,22001,"Prensa, revistas, libros y otras publicaciones",262.1
+2015,G,E,2310,22103,Combustible y carburantes,531.68
+2015,G,E,2310,22199,Otros suministros,135.61
+2015,G,E,2310,22300,Transportes,180
+2015,G,E,2310,22799,Otros trabajos realizados por otras emrpresas y profesionale,1404.65
+2015,G,E,2310,46300,A Mancomunidades,171040.19
+2015,G,E,2310,48000,Atenciones benéficas y asistencias,2641.42
+2015,G,E,2310,48900,Otras tranferencias,3672
+2015,G,E,2410,13000,Retribuciones básicas,20548.61
+2015,G,E,2410,13002,Otras remuneraciones,1017.48
+2015,G,E,2410,13010,Productividad Personal Laboral,403.38
+2015,G,E,2410,16001,Seguridad Social. Personal laboral,7859.96
+2015,G,E,2410,22199,Otros suministros,125.91
+2015,G,E,3110,22799,Otros trabajos realizados por otras emrpresas y profesionale,1650
+2015,G,E,3230,12004,Retribuciones básicas. Sueldos del Grupo C2,4087.93
+2015,G,E,3230,12006,Retribuciones básicas. Trienios,268.5
+2015,G,E,3230,12100,Retribuciones complementarias. Complemento de destino,2368.74
+2015,G,E,3230,12101,Retribuciones complementarias. Complemento específico,3827.24
+2015,G,E,3230,13000,Retribuciones básicas,48892.23
+2015,G,E,3230,13001,Horas extraordinarias,1609.49
+2015,G,E,3230,13002,Otras remuneraciones,833.66
+2015,G,E,3230,13010,Productividad,746.67
+2015,G,E,3230,15000,Productividad,2441.64
+2015,G,E,3230,16000,Seguridad Social. Personal funcionario,3558.33
+2015,G,E,3230,16001,Seguridad Social. Personal laboral,16218.37
+2015,G,E,3230,21200,"Reparaciones, mantenimiento y conservación. Edificios y otra",8451.85
+2015,G,E,3230,22103,Combustible y carburantes,20509.36
+2015,G,E,3230,22199,Otros suministros,1244.89
+2015,G,E,3230,22300,Transportes,7382.76
+2015,G,E,3230,22799,Otros trabajos realizados por otras emrpresas y profesionale,3184.3
+2015,G,E,3230,48100,"Premios, becas y pensiones de estudio",658
+2015,G,E,3231,13000,Retribuciones basicas,84420.28
+2015,G,E,3231,13002,Otras remuneraciones,1815.66
+2015,G,E,3231,16001,Seguridad Social. Personal laboral,28392.13
+2015,G,E,3231,21300,"Reparación, mantenimiento y conservación, maquinaria y utill",660.9
+2015,G,E,3231,22001,"Prensa, revistas, libros y otras publicaciones",77.5
+2015,G,E,3231,22103,Combustible y carburantes,6133.28
+2015,G,E,3231,22199,Otros suministros,400
+2015,G,E,3231,22799,Otros trabajos realizados por otras emrpresas y profesionale,27494.7
+2015,G,E,3260,13000,Retribuciones básicas,18450.94
+2015,G,E,3260,13010,Productividad,262.2
+2015,G,E,3260,16001,Seguridad Social. Personal laboral,6296.52
+2015,G,E,3261,13000,Retribuciones básicas,70790.63
+2015,G,E,3261,13001,Horas extraordinarias,84.26
+2015,G,E,3261,13002,Otras remuneraciones,2470.19
+2015,G,E,3261,16001,Seguridad Social. Personal laboral,24625.18
+2015,G,E,3261,22001,"Prensa, revistas, libros y otras publicaciones",251.84
+2015,G,E,3261,22103,Combustible y carburantes,1053.95
+2015,G,E,3261,22799,Otros trabajos realizados por otras emrpresas y profesionale,610.68
+2015,G,E,3321,13000,Retribuciones básicas,24401.84
+2015,G,E,3321,13001,Horas extraordinarias,145.25
+2015,G,E,3321,13002,Otras remuneraciones,2445.62
+2015,G,E,3321,16001,Seguridad Social. Personal laboral,7135.7
+2015,G,E,3321,21300,"Reparación y mantenimiento maquinaria, instalaciones y utill",118.58
+2015,G,E,3321,22001,"Prensa, revistas, libros y otras publicaciones",312.61
+2015,G,E,3321,22010,Fondos de biblioteca y material audiovisual,3947.7
+2015,G,E,3321,22799,Otros trabajos realizados por otras empresas,1000
+2015,G,E,3330,12004,Retribuciones básicas. Sueldos del Grupo C2,2048.23
+2015,G,E,3330,12006,Retribuciones básicas. Trienios,214.8
+2015,G,E,3330,12100,Retribuciones complementarias. Complemento de destino,1184.37
+2015,G,E,3330,12101,Retribuciones complementarias. Complemento específico,1913.62
+2015,G,E,3330,13000,Retribuciones básicas,50769.5
+2015,G,E,3330,13002,Otras remuneraciones,7602.76
+2015,G,E,3330,13010,Productividad personal laboral,990.96
+2015,G,E,3330,13100,Retribucines básicas Personal Laboral Temporal,6287.64
+2015,G,E,3330,13102,Otras remuneraciones Personal Laboral Temporal,1681.02
+2015,G,E,3330,13110,Productividad Personal Laboral temporal,914.97
+2015,G,E,3330,15000,Productividad,1325.52
+2015,G,E,3330,16000,Seguridad Social. Personal funcionario,1803.03
+2015,G,E,3330,16001,Seguridad Social. Personal laboral,18566.04
+2015,G,E,3330,20300,Alquiler maquinaria instalaciones y utillaje,1798.06
+2015,G,E,3330,21300,"Reparaciones, mantenimiento y conservación. Maquinaría, inst",2194
+2015,G,E,3330,22199,Otros suministros,4829.61
+2015,G,E,3330,22602,Publicidad y propaganda,6416.66
+2015,G,E,3330,22606,"Reuniones, conferencias y cursos",150
+2015,G,E,3330,22799,Otros trabajos realizados por otras emrpresas y profesionale,79788.2
+2015,G,E,3340,13000,Retribuciones básicas,87249.03
+2015,G,E,3340,13002,Otras remuneraciones,278.32
+2015,G,E,3340,13010,Productividad personal laboral,2456.16
+2015,G,E,3340,16001,Seguridad Social. Personal laboral,25607.83
+2015,G,E,3371,13000,Retribuciones básicas,22125.47
+2015,G,E,3371,13002,Otras remuneraciones,752.5
+2015,G,E,3371,13010,Productividad Personal Laboral,3032.82
+2015,G,E,3371,16001,Seguridad Social. Personal laboral,9107.65
+2015,G,E,3371,22199,Otros suministros,65
+2015,G,E,3371,22300,Transportes,689.15
+2015,G,E,3371,22602,Publicidad y propaganda,1142.83
+2015,G,E,3371,22799,Otros trabajos realizados por otras emrpresas y profesionale,11370.21
+2015,G,E,3371,63201,Inversión reposición edificios y otras construcciones,8996.35
+2015,G,E,3380,20300,"Arrendamiento maquinaria, instalaciones y utillaje",7100
+2015,G,E,3380,22609,Actividades culturales y deportivas,6776.7
+2015,G,E,3380,22699,Otros gastos diversos,512.6
+2015,G,E,3380,22799,Otros trabajos realizados por otras empresas y particulares,2317.15
+2015,G,E,3380,48900,Otras transferencias,6000
+2015,G,E,3420,13000,Retribuciones básicas,135478.85
+2015,G,E,3420,13002,Otras remuneraciones,16023.07
+2015,G,E,3420,13010,Productividad personal laboral,9325.32
+2015,G,E,3420,14300,Otro personal laboral,2567.17
+2015,G,E,3420,16001,Seguridad Social. Personal laboral,56051.52
+2015,G,E,3420,20300,"Arrendamiento maquinaria, instalaciones y utillaje",143
+2015,G,E,3420,21300,"Reparaciones, mantenimiento y conservación. Intalaciones",1283.5
+2015,G,E,3420,22103,Combustible y carburantes,16684.19
+2015,G,E,3420,22199,Otros suministros,2366.25
+2015,G,E,3420,22710,Otros servicios realizados por asociaciones deportivas,12314.26
+2015,G,E,3420,22799,Otros trabajos realizados por otras emrpresas y profesionale,11423.99
+2015,G,E,4331,12003,Retribuciones básicas. Sueldos del Grupo C1,2470.52
+2015,G,E,4331,12006,Retribucionrd básicas. Trienios,552.51
+2015,G,E,4331,12100,Retribuciones complementarias. Complemento de destino,1529.52
+2015,G,E,4331,12101,Retribuciones complementarias. Complemento específic,2149.29
+2015,G,E,4331,13000,Retribuciones básicas,7215.87
+2015,G,E,4331,14300,Otro personal laboral,2650.2
+2015,G,E,4331,15000,Complemento de productividad,1592.01
+2015,G,E,4331,15100,Gratificaciones,1557.93
+2015,G,E,4331,16000,Seguridad Social. Personal funcionario,1515.06
+2015,G,E,4331,16001,Seguridad Social. Personal laboral,1190.5
+2015,G,E,4331,22799,Otros trabajos realizados por otras emrpresas y profesionale,10444.22
+2015,G,E,4910,13000,Retribuciones básicas,19400.51
+2015,G,E,4910,13010,Productividad Personal Laboral,190.47
+2015,G,E,4910,16001,Seguridad Social. Personal laboral,4253.81
+2015,G,E,4910,22602,Publicidad y propaganda,515.46
+2015,G,E,4910,22799,Otros trabajos realizados por otras emrpresas y profesionale,41792.67
+2015,G,E,9120,10000,Retribuciones órganos de gobierno,88250.01
+2015,G,E,9120,11000,Retribuciones personal eventual,19636.49
+2015,G,E,9120,12004,Retribuciones básicas. Sueldos del Grupo C2,2061.02
+2015,G,E,9120,12006,Retribuciones básicas. Trienios,375.9
+2015,G,E,9120,12100,Retribuciones complementarias. Complemento de destino,1184.37
+2015,G,E,9120,12101,Retribuciones complementarias. Complemento específico,1913.62
+2015,G,E,9120,13000,Retribuciones básicas,8672.57
+2015,G,E,9120,13010,Productividad personal laboral,1998.72
+2015,G,E,9120,15000,Productividad,2078.41
+2015,G,E,9120,16000,Seguridad Social. Personal funcionario,8176.41
+2015,G,E,9120,16001,Seguridad Social. Personal laboral,3626.62
+2015,G,E,9120,16003,Seguridad Social. Altos Cargos,27446.95
+2015,G,E,9120,22105,Productos alimenticios,14.4
+2015,G,E,9120,22601,Atenciones protocolarias y representarivas,677.2
+2015,G,E,9120,22699,Otros gastos diversos,3759.08
+2015,G,E,9120,23100,Locomoción órganos de gobierno,3.6
+2015,G,E,9120,23300,Otras indemnizaciones,5400
+2015,G,E,9120,48902,Asignaciones a Grupos Políticos,6562.5
+2015,G,E,9200,12000,Retribuciones básicas. Sueldos del Grupo A1,7230.47
+2015,G,E,9200,12001,Retribuciones básicas. Sueldos del Grupo A2,3219.07
+2015,G,E,9200,12003,Retribuciones básicas. Sueldos del Grupo C1,16366.06
+2015,G,E,9200,12004,Retribuciones básicas. Sueldos del Grupo C2,21454.79
+2015,G,E,9200,12006,Retribuciones básicas. Trienios,8531.4
+2015,G,E,9200,12100,Retribuciones complementarias. Complemento de destino,26540.61
+2015,G,E,9200,12101,Retribuciones complementarias. Complemento específico,44149.9
+2015,G,E,9200,15000,Complemento de Productividad.,36329.62
+2015,G,E,9200,15100,Gratificaciones,10746.44
+2015,G,E,9200,16000,Seguridad Social. Personal funcionario,43207.79
+2015,G,E,9200,22001,"Prensa, revistas, libros y otras publicaciones",4911.36
+2015,G,E,9200,22603,Publicación en diarios oficiales,1709.46
+2015,G,E,9200,22604,Gastos jurídicos,18689.76
+2015,G,E,9201,12000,Retribucines básicas. Sueldos del Grupo A1,14098.41
+2015,G,E,9201,12003,Retribuciones básicas. Sueldos del Grupo C1,4919.19
+2015,G,E,9201,12004,Retribuciones básicas. Sueldos del Grupo C2,2061.02
+2015,G,E,9201,12006,Retribucines básicas. Trienios,1244.13
+2015,G,E,9201,12100,Retribuciones complementarias. Complemento de destino,4243.41
+2015,G,E,9201,12101,Retribuciones complementarias. Complemento específico,6735.27
+2015,G,E,9201,15000,Complemento de Productividad.,5809.72
+2015,G,E,9201,15100,Gratificaciones,1500
+2015,G,E,9201,16000,Seguridad Social. Personal funcionario,3695.1
+2015,G,E,9201,20300,Arrendamiento maquinaria,168.19
+2015,G,E,9201,21300,"Reparaciones, mantenimiento y conservación. Maquinaría, inst",1037.06
+2015,G,E,9201,21600,"Reparaciones, mantenimiento y cons. Equipamiento para proces",8172.54
+2015,G,E,9201,22000,Material de oficina no inventariable,5859.72
+2015,G,E,9201,22002,Material informático no inventariable,368.14
+2015,G,E,9201,22799,Otros trabajos realizados por otras emrpresas y profesionale,7545.8
+2015,G,E,9202,12005,Retribuciones básicas. Sueldos del Grupo E,1857.1
+2015,G,E,9202,12006,Retribucines básicas. Trienios,80.82
+2015,G,E,9202,12100,Retribuciones complementarias. Complemento de destino,915.03
+2015,G,E,9202,12101,Retribuciones complementaras. Complemento específico,1933.19
+2015,G,E,9202,13000,Retribuciones básicas,19487.56
+2015,G,E,9202,13002,Otras remuneraciones,1248
+2015,G,E,9202,13010,Productividad personal laboral,831
+2015,G,E,9202,14300,Otro Personal Laboral,29592.75
+2015,G,E,9202,15000,Complemento de Productividad.,1053
+2015,G,E,9202,15100,Gratificaciones,85.87
+2015,G,E,9202,16000,Seguridad Social. Personal funcionario,1986.71
+2015,G,E,9202,16001,Seguridad Social. Personal laboral,17327.43
+2015,G,E,9202,20400,Arrendamientos. Material de Transporte,1060.29
+2015,G,E,9202,21200,REPARAC. MANTENI. EDIFICIOS Y O.CONSTRUC,1673.43
+2015,G,E,9202,21300,"Reparaciones, mantenimiento y conservación. Maquinaría, inst",179.09
+2015,G,E,9202,21400,"Reparaciones, mantenimiento y conservación. Material de tran",321.54
+2015,G,E,9202,22000,Material de oficina no inventariable,4603.6
+2015,G,E,9202,22001,"Prensa, revistas, libros y otras publicaciones",38.24
+2015,G,E,9202,22100,Suministro energía eléctrica,11727.34
+2015,G,E,9202,22101,Suministro agua,25737.84
+2015,G,E,9202,22103,Suministro combustible y carburantes,10770.86
+2015,G,E,9202,22199,Otros suministros,3625.16
+2015,G,E,9202,22201,Servicios postales,8927.32
+2015,G,E,9202,22400,Primas de seguros,108.81
+2015,G,E,9202,22500,Tributos Estatales,64.64
+2015,G,E,9202,22603,Publicación en diarios oficiales,2645.18
+2015,G,E,9202,22699,Otros gastos diversos,200
+2015,G,E,9202,22700,Limpieza y aseo,71874
+2015,G,E,9202,23130,Locomoción del personal,1554.23
+2015,G,E,9250,12004,Retribuciones básicas. Sueldos del Grupo C2,3684.66
+2015,G,E,9250,12006,Retribuciones básicas. Trienios,229.29
+2015,G,E,9250,12100,Retribuciones complementarias. Complemento de destino,1936.37
+2015,G,E,9250,12101,Retribuciones complementarias. Complemento de destino,3139.91
+2015,G,E,9250,15000,Complemento productividad,2021
+2015,G,E,9250,16000,Seguridad Social. Personal funcionario,3028.5
+2015,G,E,9250,22699,Otros gastos diversos,130.68
+2015,G,E,9310,12000,Retribuciones básicas. Sueldos del Grupo A1,3781.55
+2015,G,E,9310,12003,Retribuciones básicas. Sueldos del Grupo C1,4968.38
+2015,G,E,9310,12004,Retribuciones básicas. Sueldos del Grupo C2,12280.85
+2015,G,E,9310,12006,Retribuciones básicas. Trienios,3461.04
+2015,G,E,9310,12100,Retribuciones complementarias. Complemento de destino,13071.51
+2015,G,E,9310,12101,Retribucines complementarias. Complemento específico,23263.23
+2015,G,E,9310,15000,Complemento de productividad,20149.54
+2015,G,E,9310,16000,Seguridad Social. Personal funcionario,20333.4
+2015,G,E,9341,12000,Retribuciones básicas. Sueldos del Grupo A1,3806.86
+2015,G,E,9341,12003,Retribuciones básicas. Sueldos del Grupo C1,2337.45
+2015,G,E,9341,12004,Retribucines básicas. Sueldos del Grupo C2,10346.82
+2015,G,E,9341,12006,Retribuciones básicas. Trienios,2459.05
+2015,G,E,9341,12100,Retribuciones complementarias. Complemento de destino,10189.86
+2015,G,E,9341,12101,Retribuciones complementarias. Complemento específico,18969.24
+2015,G,E,9341,15000,Complemento de Productividad.,15255.41
+2015,G,E,9341,16000,Seguridad Social. Personal funcionario,14770.46
+2015,G,E,9341,22603,Publicación en diarios oficiales,318.15
+2015,G,E,9341,22799,Otros trabajos realizados por otras emrpresas y profesionale,4503.3
