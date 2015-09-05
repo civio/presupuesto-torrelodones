@@ -6,6 +6,7 @@ MAIN_ENTITY_LEVEL = 'municipio'
 MAIN_ENTITY_NAME = 'Torrelodones'
 
 BUDGET_LOADER = 'TorrelodonesBudgetLoader'
+PAYMENTS_LOADER = 'TorrelodonesPaymentsLoader'
 
 FEATURED_PROGRAMMES = ['3211', '1710', '3320']
 
