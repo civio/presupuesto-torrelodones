@@ -1,56 +1,60 @@
-#Año,Tipo,Presupuesto,Concepto,Descripción,Crédito
-2015,I,E,11300,Impto. sobre Bienes Inmuebles de Naturaleza Urbana,10309.83
-2015,I,E,11500,Impuesto sobre Vehículos de Tracción Mecánica,711572.93
-2015,I,E,11600,Impuesto sobre el Incremento de Valor de los Terrenos de Nat,1292835.14
-2015,I,E,13000,Impuesto sobre Actividades Económicas. Actividades Empresari,1137189.72
-2015,I,E,29000,"Impuesto sobre Construcciones, Instalaciones y Obras",128340.15
-2015,I,E,30200,Tasas por recogida de basuras,718896.97
-2015,I,E,31300,Tasas por serv. deportiv:enseñanzas especiales y actividades,65932.23
-2015,I,E,31302,"Tasas padle, tenis, frontenis y scuash",3111.95
-2015,I,E,31303,Tasas cesión canchas,1150.1
-2015,I,E,31304,Tasas cuotas abono instalaciones,17401.75
-2015,I,E,32100,Licencias urbanísticas,83025.17
-2015,I,E,32200,Licencias de primera ocupación,14960.27
-2015,I,E,32500,Tasa por expedición de documentos,2016.33
-2015,I,E,32700,Licencias de apertura de establecimientos,19262.12
-2015,I,E,33200,"Tasa por util. priv o aprov esp:suelo, vuelo y subsuelo",130127.35
-2015,I,E,33500,Tasa por ocupación de la vía pública con terrazas,1728.72
-2015,I,E,33600,Tasa por o.v.p. con suspensión temporal del tráfico rodado,550
-2015,I,E,33800,Compensación Telefónica de España S.A.,20328.29
-2015,I,E,33900,Tasa por ocupación de vía pública,8725.98
-2015,I,E,33902,Tasas de retirada de vehículos (grúas),1553.38
-2015,I,E,33903,Tasa por cesión de instalaciones en dominio público,13240
-2015,I,E,33904,Tasas de o.v.p. con puestos y barracas,764.46
-2015,I,E,34200,Precios públicos. Escuela de Idiomas,62170.23
-2015,I,E,34201,Precios públicos escuela infantil,60199.24
-2015,I,E,34202,Precios públicos. Escuela de Música y Danza,60269.41
-2015,I,E,34203,Precios públicos. Cursos y Actividades.,15368.38
-2015,I,E,34300,Precios públicos por prestación de servicio en Deportes,30621.83
-2015,I,E,34400,Precios públicos por asistencia a espectáculos,15671.98
-2015,I,E,34900,Precios públicos por publicidad en Revista Municipal y otros,5971.5
-2015,I,E,34901,Precios públicos por casa de juventud,1303
-2015,I,E,34902,Precios públicos por servicio de bodas,3976.94
-2015,I,E,34904,Precios públicos por transporte escolar,7170
-2015,I,E,34906,PRECIO PUBLICO SUMINISTRO AGUA HUERTOS URBANOS,2835
-2015,I,E,34907,Precios públicos talleres Servicios Sociales,4912.5
-2015,I,E,38900,Reintegros de Presupuestos Cerrados,12228.52
-2015,I,E,39100,Multas por infracciones urbanísticas,1200
-2015,I,E,39103,Sanciones medioambientales,300
-2015,I,E,39120,Multas por infracciones de la Ordenanza de Circulación.,41290
-2015,I,E,39190,Otras multas y sanciones,3489.8
-2015,I,E,39200,Recargo por declaración extemporánea sin requer. previo,51901.75
-2015,I,E,39211,Recargo de apremio,82449.11
-2015,I,E,39300,Intereses de demora,23685.15
-2015,I,E,39800,Indemnizaciones de seguros de no vida,3074.53
-2015,I,E,39901,Otros ingresos diversos,13126.01
-2015,I,E,39902,Otros recargos. Costas.,5084.14
-2015,I,E,39903,Otros ingresos. Recogida selectiva de envases,42544.26
-2015,I,E,39904,Otros ingresos. Fondo reposición arbolado,17099.42
-2015,I,E,39905,Otros ingresos diversos. Recogidas RAEE,303.23
-2015,I,E,42000,Participación en los tributos del Estado,787933.37
-2015,I,E,52100,Intereses de depósitos,6715.34
-2015,I,E,53410,Dividendos de Sociedades,88770.44
-2015,I,E,55000,Concesiones administrativas de contraprestación periódica,229174.83
-2015,I,E,55001,Concesiones adtivas. contraprestación periódica (bares),6876.13
-2015,I,E,55200,Concesiones y aprovechamientos. Derechos de superficie.,187916.5
-2015,I,E,83000,Reintegro de préstamos del personal,24476.35
+#Año,Tipo,Presupuesto,Concepto,Descripción,Crédito,1T,2T,3T
+2015,I,E,11300,Impto. sobre Bienes Inmuebles de Naturaleza Urbana,18598.98,10309.83,10309.83,-2020.68
+2015,I,E,11500,Impuesto sobre Vehículos de Tracción Mecánica,1426765.63,711572.93,711572.93,3619.77
+2015,I,E,11600,Impuesto sobre el Incremento de Valor de los Terrenos de Nat,3250654.38,1292835.14,1292835.14,664984.1
+2015,I,E,13000,Impuesto sobre Actividades Económicas. Actividades Empresari,2083098.11,1137189.72,1137189.72,-191281.33
+2015,I,E,29000,"Impuesto sobre Construcciones, Instalaciones y Obras",342975.06,128340.15,128340.15,86294.76
+2015,I,E,30200,Tasas por recogida de basuras,1438704.65,718896.97,718896.97,910.71
+2015,I,E,31300,Tasas por serv. deportiv:enseñanzas especiales y actividades,175297.2,65932.23,65932.23,43432.74
+2015,I,E,31302,"Tasas padle, tenis, frontenis y scuash",11505.45,3111.95,3111.95,5281.55
+2015,I,E,31303,Tasas cesión canchas,3230.2,1150.1,1150.1,930
+2015,I,E,31304,Tasas cuotas abono instalaciones,45235.9,17401.75,17401.75,10432.4
+2015,I,E,32100,Licencias urbanísticas,276783.89,83025.17,83025.17,110733.55
+2015,I,E,32200,Licencias de primera ocupación,34071.71,14960.27,14960.27,4151.17
+2015,I,E,32500,Tasa por expedición de documentos,5348.4,2016.33,2016.33,1315.74
+2015,I,E,32700,Licencias de apertura de establecimientos,40244.86,19262.12,19262.12,1720.62
+2015,I,E,32900,Tasa por apertura anual de piscinas de uso colectivo,10439.23,0,0,10439.23
+2015,I,E,33200,"Tasa por util. priv o aprov esp:suelo, vuelo y subsuelo",318658.43,130127.35,130127.35,58403.73
+2015,I,E,33400,Tasa por apertura de calas y zanjas ,495.34,0,0,495.34
+2015,I,E,33500,Tasa por ocupación de la vía pública con terrazas,9523.08,1728.72,1728.72,6065.64
+2015,I,E,33600,Tasa por o.v.p. con suspensión temporal del tráfico rodado,4131.53,550,550,3031.53
+2015,I,E,33800,Compensación Telefónica de España S.A.,40656.58,20328.29,20328.29,0
+2015,I,E,33900,Tasa por ocupación de vía pública,27188.78,8725.98,8725.98,9736.82
+2015,I,E,33902,Tasas de retirada de vehículos (grúas),4600.53,1553.38,1553.38,1493.77
+2015,I,E,33903,Tasa por cesión de instalaciones en dominio público,27698.4,13240,13240,1218.4
+2015,I,E,33904,Tasas de o.v.p. con puestos y barracas,9625.23,764.46,764.46,8096.31
+2015,I,E,34200,Precios públicos. Escuela de Idiomas,192417.08,62170.23,62170.23,68076.62
+2015,I,E,34201,Precios públicos escuela infantil,171197.65,60199.24,60199.24,50799.17
+2015,I,E,34202,Precios públicos. Escuela de Música y Danza,151296.37,60269.41,60269.41,30757.55
+2015,I,E,34203,Precios públicos. Cursos y Actividades.,36352.17,15368.38,15368.38,5615.41
+2015,I,E,34300,Precios públicos por prestación de servicio en Deportes,72357.85,30621.83,30621.83,11114.19
+2015,I,E,34400,Precios públicos por asistencia a espectáculos,37886.78,15671.98,15671.98,6542.82
+2015,I,E,34900,Precios públicos por publicidad en Revista Municipal y otros,17518,5971.5,5971.5,5575
+2015,I,E,34901,Precios públicos por casa de juventud,5826,1303,1303,3220
+2015,I,E,34902,Precios públicos por servicio de bodas,15527.32,3976.94,3976.94,7573.44
+2015,I,E,34904,Precios públicos por transporte escolar,17393,7170,7170,3053
+2015,I,E,34906,PRECIO PUBLICO SUMINISTRO AGUA HUERTOS URBANOS,5670,2835,2835,0
+2015,I,E,34907,Precios públicos talleres Servicios Sociales,9825,4912.5,4912.5,0
+2015,I,E,38900,Reintegros de Presupuestos Cerrados,56153.01,12228.52,12228.52,31695.97
+2015,I,E,39100,Multas por infracciones urbanísticas,3150,1200,1200,750
+2015,I,E,39103,Sanciones medioambientales,1100,300,300,500
+2015,I,E,39120,Multas por infracciones de la Ordenanza de Circulación.,103050,41290,41290,20470
+2015,I,E,39190,Otras multas y sanciones,12480.6,3489.8,3489.8,5501.0
+2015,I,E,39200,Recargo por declaración extemporánea sin requer. previo,104293.43,51901.75,51901.75,489.93
+2015,I,E,39211,Recargo de apremio,234366.33,82449.11,82449.11,69468.11
+2015,I,E,39300,Intereses de demora,81096.19,23685.15,23685.15,33725.89
+2015,I,E,39800,Indemnizaciones de seguros de no vida,21920.36,3074.53,3074.53,15771.3
+2015,I,E,39901,Otros ingresos diversos,47630.39,13126.01,13126.01,21378.37
+2015,I,E,39902,Otros recargos. Costas.,20466.52,5084.14,5084.14,10298.24
+2015,I,E,39903,Otros ingresos. Recogida selectiva de envases,114458.01,42544.26,42544.26,29369.49
+2015,I,E,39904,Otros ingresos. Fondo reposición arbolado,39948.34,17099.42,17099.42,5749.5
+2015,I,E,39905,Otros ingresos diversos. Recogidas RAEE,606.46,303.23,303.23,0
+2015,I,E,42000,Participación en los tributos del Estado,1942455.9,787933.37,787933.37,366589.16
+2015,I,E,45060,Transferencias corrientes de la Comunidad de Madrid ,127444.06,0,0,127444.06
+2015,I,E,45300,DE EMPRESAS PUBLICAS Y OTROS ENTES PUBLICOS,963.33,0,0,963.33
+2015,I,E,52100,Intereses de depósitos,18871.16,6715.34,6715.34,5440.48
+2015,I,E,53410,Dividendos de Sociedades,177540.88,88770.44,88770.44,0
+2015,I,E,55000,Concesiones administrativas de contraprestación periódica,467410.62,229174.83,229174.83,9060.96
+2015,I,E,55001,Concesiones adtivas. contraprestación periódica (bares),15420.41,6876.13,6876.13,1668.15
+2015,I,E,55200,Concesiones y aprovechamientos. Derechos de superficie.,494235.2,187916.5,187916.5,118402.2
+2015,I,E,83000,Reintegro de préstamos del personal,69678.36,24476.35,24476.35,20725.66
