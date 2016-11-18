@@ -25,3 +25,8 @@ SHOW_INSTITUTIONAL_TAB = False
 
 # Search in entity names. Default: True.
 SEARCH_ENTITIES = False
+
+# Supported languages. Default: ('es', 'Castellano')
+LANGUAGES = (
+  ('es', 'Castellano'),
+)
