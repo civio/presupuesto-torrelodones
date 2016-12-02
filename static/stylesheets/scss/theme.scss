@@ -1,0 +1,34 @@
+@import "theme-variables";
+
+header{
+  background: $brand-primary;
+}
+
+.navbar-brand {
+  font-size: 2.5em;
+  margin: 0;
+
+  a{
+    color: white;
+  }
+
+  @media (min-width: 992px) and (max-width: 1199px) {
+    text-align: right;
+    padding-right: 15px;
+  }
+}
+
+.home-content .options .option>div .icon{
+  color: $brand-secondary;
+  opacity: 0.5;
+}
+
+.home-content .options .option>div .btn{
+  border-color: $brand-secondary;
+  background: $brand-secondary;
+
+  &:hover{
+    border-color: $brand-primary;
+    background: $brand-primary;
+  }
+}
