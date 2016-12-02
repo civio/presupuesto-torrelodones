@@ -134,9 +134,32 @@ FEATURED_PROGRAMMES = ['3231', '1710', '3321']
 # Overview Settings
 # ----------------------
 
-OVERVIEW_INCOME_NODES = [['11', '113'], '42', ['11', '116'], '13', '34']
+OVERVIEW_INCOME_NODES = [
+                          {
+                            'nodes': [['11', '113']],
+                            'link_id': '11',
+                            'label': 'Impuesto sobre bienes inmuebles de naturaleza urbana'
+                          },
+                          '42',
+                          {
+                            'nodes': [['11', '116']],
+                            'link_id': '11',
+                            'label': 'Impuesto sobre incremento del valor de los terrenos de naturaleza urbana'
+                          },
+                          {
+                            'nodes': [['34', '342']],
+                            'link_id': '34',
+                            'label': 'Servicios educativos'
+                          },
+                          '13',
+                          {
+                            'nodes': ['45', '75'],
+                            'link_id': '45',
+                            'label': 'De comunidades autónomas'
+                          },
+                        ]
 
-OVERVIEW_EXPENSE_NODES = ['23', '92', '13', '16', '15', '33']
+OVERVIEW_EXPENSE_NODES = ['92', '13', '16', '15', '33', '32', '17', '23']
 
 # How much padding between Sankey nodes. Default: 10 (Optional)
 # Note: higher values will result in a more 'curvy accordion'.
@@ -144,7 +167,7 @@ OVERVIEW_EXPENSE_NODES = ['23', '92', '13', '16', '15', '33']
 
 # How aggresive should the Sankey diagram reorder the nodes. Default: 0.79 (Optional)
 # Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
-# OVERVIEW_RELAX_FACTOR = 0.5
+OVERVIEW_RELAX_FACTOR = 0.5
 
 # Adjust inflation in amounts in Overview page. Default: True
 # ADJUST_INFLATION_IN_OVERVIEW = False
