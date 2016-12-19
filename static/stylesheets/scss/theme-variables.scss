@@ -20,8 +20,6 @@ $link-color:            $brand-primary;
 $link-hover-color:      $link-color;
 $link-hover-decoration: underline;
 
-$table-color:           $brand-secondary;
-
 
 // Typography
 // -------------
@@ -73,6 +71,13 @@ $dvmi-navbar-color:  white;
 
 $navbar-default-link-active-color:    $brand-primary;
 $navbar-default-link-active-bg:       $brand-terciary;
+
+
+// Panels
+// ---------------
+
+$panel-default-border:      $brand-secondary;
+$panel-default-heading-bg:  $brand-secondary;
 
 
 // Buttons
@@ -164,12 +169,6 @@ $budget-stream-color: $brand-secondary;
 
 $slider-bg:     mix( $brand-secondary, $brand-terciary, 25% );
 $slider-color:  $brand-secondary;
-
-
-// Data Panel
-// --------------
-
-$data-panel-color: $table-color;
 
 
 // Data Sources
