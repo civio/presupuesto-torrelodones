@@ -78,7 +78,7 @@ SHOW_INSTITUTIONAL_TAB  = False
 # Supported languages. Default: ('es', 'Castellano')
 LANGUAGES = (
   ('es', 'Castellano'),
-  # ('en', 'English'),
+  ('en', 'English'),
   # ('ca', 'Català'),
   # ('eu', 'Euskera'),
   # ('gl', 'Galego'),
@@ -138,24 +138,28 @@ OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': [['11', '113']],
                             'link_id': '11',
-                            'label': 'Impuesto sobre bienes inmuebles de naturaleza urbana'
+                            'label.es': 'Impuesto sobre bienes inmuebles de naturaleza urbana',
+                            'label.en': 'Tax on urban real estate'
                           },
                           '42',
                           {
                             'nodes': [['11', '116']],
                             'link_id': '11',
-                            'label': 'Impuesto sobre incremento del valor de los terrenos de naturaleza urbana'
+                            'label.es': 'Impuesto sobre incremento del valor de los terrenos de naturaleza urbana',
+                            'label.en': 'Tax on urban land value increases'
                           },
                           {
                             'nodes': [['34', '342']],
                             'link_id': '34',
-                            'label': 'Servicios educativos'
+                            'label.es': 'Servicios educativos',
+                            'label.en': 'Educational services'
                           },
                           '13',
                           {
                             'nodes': ['45', '75'],
                             'link_id': '45',
-                            'label': 'De comunidades autónomas'
+                            'label.es': 'De comunidades autónomas',
+                            'label.en': 'From regional governments'
                           },
                         ]
 
