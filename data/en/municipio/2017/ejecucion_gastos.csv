@@ -1,0 +1,604 @@
+#Año,Tipo,Presupuesto,Programa,Económica,Descripción,Obligaciones
+2017,G,E,0110,31001,Intereses Operaciones de Tesoreria,
+2017,G,E,0110,31004,Intereses DEXIA SABADELL préstamo 2008 nº 36154507,
+2017,G,E,0110,31005,Intereses BANESTO préstamo 2008 nº 489103,
+2017,G,E,0110,31020,Intereses BANKIA nº 9.315.551/13- Inv. 2.004,
+2017,G,E,0110,31021,Intereses refinanciación deuda BBVA-BCL,236927.73
+2017,G,E,0110,35900,Otros gastos financieros,272796
+2017,G,E,0110,91304,Amortización DEXIA SABADELL préstamo 2008 nº 36154507,139755.44
+2017,G,E,0110,91305,Amortización BANESTO préstamo 2008 nº 489103,92857.12
+2017,G,E,0110,91320,Amortización BANKIA nº 9.315.551/13-Inv. 2004,221407.5
+2017,G,E,0110,91321,Amortización refinanciación deuda BBVA-BCL,2178820
+2017,G,E,1320,12001,Retribuciones básicas. Sueldos del Grupo A2,
+2017,G,E,1320,12003,Retribuciones básicas. Sueldos del Grupo C1,11371.55
+2017,G,E,1320,12004,Retribuciones básicas. Sueldos del Grupo C2,499717.27
+2017,G,E,1320,12006,Retribuciones básicas. Trienios,50629.69
+2017,G,E,1320,12100,Retribuciones complementarias. Complemento de destino,186245.66
+2017,G,E,1320,12101,Retribucones complementarias. Complemento específico,735907.74
+2017,G,E,1320,14300,Otro personal,
+2017,G,E,1320,15000,Complemento de productividad,331960.18
+2017,G,E,1320,15100,Gratificaciones,26695.8
+2017,G,E,1320,16000,Seguridad Social. Personal funcionario,441585.22
+2017,G,E,1320,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,1320,20200,Arrendamientos de edificios y otras construcciones,10164
+2017,G,E,1320,20400,Arrendamiento material de transporte,1636.57
+2017,G,E,1320,21300,"Reparación y mantenimiento maquinaria, instalaciones y utill",10196.1
+2017,G,E,1320,21400,Reparación y mantenimiento material de transporte,4144.52
+2017,G,E,1320,22100,Suministro energía electrica,15551.61
+2017,G,E,1320,22103,Combustible y carburantes,19301.35
+2017,G,E,1320,22104,Vestuario,12864.25
+2017,G,E,1320,22199,Otros suministros,10206.86
+2017,G,E,1320,22601,Atenciones protocolarias y representativas,
+2017,G,E,1320,22603,Publicación en diarios oficiales,
+2017,G,E,1320,22699,Otros gastos diversos,3527.99
+2017,G,E,1320,22700,Limpieza y aseo,18439.29
+2017,G,E,1320,22799,Otros trabajos realizados por otras emrpresas y profesionale,26294.65
+2017,G,E,1320,62300,"Maquinaria, instalaciones y utillaje",1687.95
+2017,G,E,1330,20000,Arrendamiento de terrenos y bienes naturales,29040
+2017,G,E,1330,20300,Arrendamiento maquinaria,20358.25
+2017,G,E,1330,22706,Estudios y trabajos técnicos,11146.52
+2017,G,E,1330,22799,Otros trabajos realizados por otras empresas y profesionales,3100
+2017,G,E,1330,61900,Otras inversiones de reposición de infraestructuras y bienes,263227.39
+2017,G,E,1330,62300,"Maquinaria, instalaciones y utillaje",12452.2
+2017,G,E,1350,13000,Retribuciones básicas,86423.53
+2017,G,E,1350,13001,Horas extraordinarias,
+2017,G,E,1350,13002,Otras remuneraciones,4337.08
+2017,G,E,1350,13010,Productividad,4230.75
+2017,G,E,1350,14300,Otro personal,24871.37
+2017,G,E,1350,16000,Seguridad Social. Personal funcionario,8136.68
+2017,G,E,1350,16001,Seguridad Social. Personal laboral,28716.81
+2017,G,E,1350,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,1350,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,1350,21300,"Reparación, mantenimiento y conservación. Maquinaria, instal",27952.8
+2017,G,E,1350,21400,"Reparaciones, mantenimiento y conservación. Material de tran",6504.08
+2017,G,E,1350,21600,Reparaciones y mantenimiento equipamiento procesos informac.,2268.75
+2017,G,E,1350,22000,Material de oficina no inventariable,
+2017,G,E,1350,22001,"Prensa , revistas, libros y otras publicaciones",
+2017,G,E,1350,22103,Combustible y carburantes,2132.25
+2017,G,E,1350,22104,Vestuario,6441.2
+2017,G,E,1350,22105,Productos alimenticios,2263.11
+2017,G,E,1350,22106,Productos farmaceúticos y material sanitario,145.27
+2017,G,E,1350,22199,Otros suministros,1119.27
+2017,G,E,1350,22699,Otros gastos diversos,1537.05
+2017,G,E,1350,22799,Otros trabajos realizados por otras emrpresas y profesionale,14234.64
+2017,G,E,1350,62300,"Maquinaria, instalaciones y utillaje",882.45
+2017,G,E,1360,22501,Tributos de las Comunidades Autónomas,715313.28
+2017,G,E,1510,12000,Retribuciones básicas. Sueldos del Grupo A1,34496.03
+2017,G,E,1510,12001,Retribuciones básicas. Sueldos del Grupo A2,44208.08
+2017,G,E,1510,12003,Retribuciones básicas. Sueldos del Grupo C1,37428.11
+2017,G,E,1510,12006,Retribuciones básicas. Trienios,21467.03
+2017,G,E,1510,12100,Retribuciones complementarias. Complemento de destino,63998.47
+2017,G,E,1510,12101,Retribuciones complementarias. Complemento específico,105443.98
+2017,G,E,1510,14300,Otro personal,39215.42
+2017,G,E,1510,15000,Complemento de productividad,65101.22
+2017,G,E,1510,15100,Gratificaciones,6977.56
+2017,G,E,1510,16000,Seguridad Social. Personal funcionario,107279.4
+2017,G,E,1510,16200,Formación y perfeccionamiento personal funcionario,445
+2017,G,E,1510,21200,Reparación y mantenimiento edificios y otras construcciones,151626.96
+2017,G,E,1510,21600,Repara. manten.equipos procesos inform.,12011.67
+2017,G,E,1510,22610,Actuaciones subsidiarias,47142.55
+2017,G,E,1510,22706,Estudios y trabajos técnicos,311236.69
+2017,G,E,1510,22799,Otros trabajos realizados por otras emrpresas y profesionale,18027.6
+2017,G,E,1510,60000,Inversiones en terrrenos,
+2017,G,E,1510,62300,"Maquinaria, Instalaciones y Utillaje",10285
+2017,G,E,1533,13000,Retribuciones básicas,250675.3
+2017,G,E,1533,13001,Horas extraordinarias,7500.58
+2017,G,E,1533,13002,Otras remuneraciones,15000.56
+2017,G,E,1533,13010,Productividad personal laboral,42983.62
+2017,G,E,1533,14300,Otro personal laboral,27012.73
+2017,G,E,1533,16001,Seguridad Social. Personal laboral,111129.83
+2017,G,E,1533,16300,Formación y perfeccionamiento personal laboral,801.2
+2017,G,E,1533,20300,"Arrendamiento maquinaria, instalaciones y utillaje",8069.13
+2017,G,E,1533,20400,Arrenadmiento material de transporte,22723.75
+2017,G,E,1533,20900,Cánones,534.93
+2017,G,E,1533,21003,Mantenimiento vías públicas,83115.1
+2017,G,E,1533,21300,"Reparación y mantenimiento maquinaria, instalaciones y utill",4128.17
+2017,G,E,1533,21400,Reparación y mantenimiento material de transporte,6741.7
+2017,G,E,1533,22101,Agua,100000
+2017,G,E,1533,22103,Combustible y carburantes,8915.08
+2017,G,E,1533,22104,Vestuario,6744.09
+2017,G,E,1533,22199,Otros suministros,20694.14
+2017,G,E,1533,22799,Otros trabajos realizados por otras empresas,17933.78
+2017,G,E,1532,21003,Mantenimiento vías públicas,463888.69
+2017,G,E,1532,22199,Otros suministros,41067.81
+2017,G,E,1532,61900,Otras inversiones de reposición de infraestructuras y bienes,210825.49
+2017,G,E,1532,62300,"Maquinaria, instalaciones y utillaje",
+2017,G,E,1610,61900,Otras inversiones de reposición de infraestructuras y bienes,43519.74
+2017,G,E,1610,78900,Otras transferencias de capital,101547.6
+2017,G,E,1621,22502,Tributos de las Entidades Locales,144765.96
+2017,G,E,1621,22706,Estudios y trabajos técnicos,21175
+2017,G,E,1621,22799,Otros trabajos realizados por otras emrpresas y profesionale,789398.06
+2017,G,E,1621,61900,Otras inversiones de reposición de infraestructuras y bienes,36839.48
+2017,G,E,1630,20400,Arrendamiento material de transporte,2162.31
+2017,G,E,1630,22700,Limpieza y aseo,726255.28
+2017,G,E,1650,21002,Mantenimiento alumbrado publico,154270.32
+2017,G,E,1650,22100,Energía eléctrica,354464.7
+2017,G,E,1650,61900,Otras inversiones de reposición de infraestructuras y bienes,766839.57
+2017,G,E,1700,12001,Retribuciones básicas. Sueldos del Grupo A2,14849.15
+2017,G,E,1700,12003,Retribuciones básicas. Sueldos del Grupo C1,11320.45
+2017,G,E,1700,12005,Retribuciones básicas. Sueldos del Grupo E,8469.06
+2017,G,E,1700,12006,Retribuciones básicas. Trienios,3954.72
+2017,G,E,1700,12100,Retribuciones complementarias. Complemento de destino,18521.87
+2017,G,E,1700,12101,Retribuciones complementarias. Complemento específico,28557.73
+2017,G,E,1700,13000,Retribuciones básicas,58428.52
+2017,G,E,1700,13001,Horas extraordinarias,6138.49
+2017,G,E,1700,13002,Otras remuneraciones,3168.3
+2017,G,E,1700,13010,Productividad personal laboral,8422.8
+2017,G,E,1700,14300,Otro personal,83870.46
+2017,G,E,1700,15000,Complemento de productividad,17665.85
+2017,G,E,1700,15100,Gratificaciones,2268.08
+2017,G,E,1700,16000,Seguridad Social. Personal funcionario,47628.87
+2017,G,E,1700,16001,Seguridad Social. Personal laboral,28522.44
+2017,G,E,1700,16200,Formación y perfeccionamiento personal funcionario,115
+2017,G,E,1700,16300,Formación y perfeccionamiento perosnal laboral,45
+2017,G,E,1700,20400,Arrendamiento material de transporte,36423.6
+2017,G,E,1700,21000,Mantenimiento y conservación arbolado,49084.54
+2017,G,E,1700,21001,Mantenimiento fajas contra incendios,
+2017,G,E,1700,21300,"Reparación y mantenimiento maquinaria, instalaciones y utill",369.72
+2017,G,E,1700,22103,Combustible y carburantes,2502.02
+2017,G,E,1700,22104,Vestuario,6579.28
+2017,G,E,1700,22199,Otros suministros,19189.75
+2017,G,E,1700,22500,Tributos estatales,
+2017,G,E,1700,22699,Otros gastos diversos,10508.35
+2017,G,E,1700,22706,Estudios y trabajos técnicos,13333.51
+2017,G,E,1700,22799,Otros trabajos realizados or otras empresas,112313.81
+2017,G,E,1700,62300,"Maquinaria, instalaciones y utillaje",1188.3
+2017,G,E,1700,63100,Inversión de reposición en terrenos y bienes naturales,
+2017,G,E,1710,21001,Mantenimiento parques y jardines,723356.52
+2017,G,E,1710,61900,Otras inversiones de reposición de infraestructuras y bienes,92106.27
+2017,G,E,1710,62100,Terrenos y bienes natuales,55044.8
+2017,G,E,1710,63100,Inversión en terrenos y bienes naturales,649580.62
+2017,G,E,1720,21000,Mantenimiento de zonas forestales,1998.92
+2017,G,E,1720,22199,otros suministros,3073.4
+2017,G,E,1720,60900,Otras inversiones nuevas de infraestuctura y bienes,
+2017,G,E,2210,16103,Pensiones excepcionales,1662.64
+2017,G,E,2210,16204,Acción social personal funcionario,62439
+2017,G,E,2210,16205,Seguros,19011.94
+2017,G,E,2210,16304,Acción social personal laboral,45045.62
+2017,G,E,2210,23030,Dietas del personal,140.77
+2017,G,E,2210,23300,Otras indemnizaciones,8265.89
+2017,G,E,2210,83001,Préstamos al personal,71412
+2017,G,E,2310,12001,Retribuciones básicas. Sueldos del Grupo A2,15211.3
+2017,G,E,2310,12003,Retribuciones básicas. Sueldos del Grupo C1,11494.91
+2017,G,E,2310,12004,Retribuciones báscias. Sueldos del Grupo C2,9642.01
+2017,G,E,2310,12006,Retribuciones básicas. Trienios,9438.94
+2017,G,E,2310,12100,Retribuciones complementarias. Complemento de destino,19620.76
+2017,G,E,2310,12101,Retribuciones complementarias. Complemento específico,33514.37
+2017,G,E,2310,13000,Retribuciones básicas,86617.14
+2017,G,E,2310,13002,Otras remuneraciones,5206.74
+2017,G,E,2310,13010,Productividad Personal Laboral,11769.31
+2017,G,E,2310,15000,Complemento de Productividad.,21829.23
+2017,G,E,2310,16000,Seguridad Social. Personal funcionario,18800
+2017,G,E,2310,16001,Seguridad Social. Personal laboral,38213.15
+2017,G,E,2310,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,2310,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,2310,21200,Reparación y mantenimiento edificios y otras constr.,13034.12
+2017,G,E,2310,21300,"Reparación y mantenimiento maquinaria, instala. y utillaje",6317.14
+2017,G,E,2310,22001,"Prensa, revistas, libros y otras publicaciones",1553.38
+2017,G,E,2310,22100,Suministro energía eléctrica,57311.7
+2017,G,E,2310,22103,Combustible y carburantes,1466.27
+2017,G,E,2310,22106,Productos farmacéuticos y material sanitario,694.42
+2017,G,E,2310,22199,Otros suministros,2119.06
+2017,G,E,2310,22300,Transportes,2620
+2017,G,E,2310,22699,Otros gastos diversos,
+2017,G,E,2310,22700,Limpieza y aseo,16601.93
+2017,G,E,2310,22799,Otros trabajos realizados por otras emrpresas y profesionale,149705.09
+2017,G,E,2310,48000,Atenciones benéficas y asistencias,183423.04
+2017,G,E,2310,48900,Otras tranferencias,86554
+2017,G,E,2410,13000,Retribuciones básicas,92939.43
+2017,G,E,2410,13001,Horas extraordinarias,
+2017,G,E,2410,13002,Otras remuneraciones,4481.4
+2017,G,E,2410,13010,Productividad Personal Laboral,1645.9
+2017,G,E,2410,16001,Seguridad Social. Personal laboral,30901.56
+2017,G,E,2410,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,2410,21300,"Reparación, conservación y mantenimiento maquinaria.",338.61
+2017,G,E,2410,22000,Material de oficina ordinario no inventariable,205.25
+2017,G,E,2410,22104,Vestuario,317.5
+2017,G,E,2410,22105,Productos alimenticios,4428.75
+2017,G,E,2410,22199,Otros suministros,1720.2
+2017,G,E,2410,22300,Transportes,302.5
+2017,G,E,2410,22400,Seguros,443.1
+2017,G,E,2410,22699,Otros gastos diversos,3607.32
+2017,G,E,3110,22106,Productos farmacéuticos y material sanitario,
+2017,G,E,3110,22199,Otros suministros,2213.6
+2017,G,E,3110,22602,Publicidad y propaganda,
+2017,G,E,3110,22699,Otros gastos diversos,
+2017,G,E,3110,22799,Otros trabajos realizados por otras emrpresas y profesionale,71588.87
+2017,G,E,3110,62200,Edificios y otras construcciones,
+2017,G,E,3230,12004,Retribuciones básicas. Sueldos del Grupo C2,25979.55
+2017,G,E,3230,12006,Retribuciones básicas. Trienios,1452.01
+2017,G,E,3230,12100,Retribuciones complementarias. Complemento de destino,13106.86
+2017,G,E,3230,12101,Retribuciones complementarias. Complemento específico,22928.38
+2017,G,E,3230,13000,Retribuciones básicas,189200.57
+2017,G,E,3230,13001,Horas extraordinarias,548.1
+2017,G,E,3230,13002,Otras remuneraciones,3671.69
+2017,G,E,3230,13010,Productividad,2240.11
+2017,G,E,3230,15000,Productividad,10908.92
+2017,G,E,3230,15100,Gratificaciones,
+2017,G,E,3230,16000,Seguridad Social. Personal funcionario,19767.01
+2017,G,E,3230,16001,Seguridad Social. Personal laboral,59290.92
+2017,G,E,3230,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,3230,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,3230,20300,"Arrendamiento maquinaria, instalaciones y utillaje",1948.1
+2017,G,E,3230,21200,"Reparaciones, mantenimiento y conservación. Edificios y otra",63345.84
+2017,G,E,3230,21300,"Reparación y mantenimiento maquinaria, instalaciones y utill",24993.98
+2017,G,E,3230,22100,Suministro energía eléctrica,56273.4
+2017,G,E,3230,22103,Combustible y carburantes,35075.3
+2017,G,E,3230,22199,Otros suministros,14593.55
+2017,G,E,3230,22300,Transportes,56795.77
+2017,G,E,3230,22699,Otros gastos diversos,934.42
+2017,G,E,3230,22700,Limpieza y aseo,199527.32
+2017,G,E,3230,22799,Otros trabajos realizados por otras emrpresas y profesionale,91171.47
+2017,G,E,3230,48100,"Premios, becas y pensiones de estudio",1440
+2017,G,E,3230,48900,Otras transferencias,110320
+2017,G,E,3230,62200,Inversión nueva edificios y otras construcciones,99885.9
+2017,G,E,3230,62300,"Maquinaria, instalaciones y utillaje",7223.7
+2017,G,E,3230,63201,Inversión reposición edificios y otras construcciones,100555.43
+2017,G,E,3230,63300,"Maquinaria, instalaciones y utillaje",4202.33
+2017,G,E,3230,63500,Mobiliario,
+2017,G,E,3231,13000,Retribuciones basicas,333870.22
+2017,G,E,3231,13002,Otras remuneraciones,3842.98
+2017,G,E,3231,16001,Seguridad Social. Personal laboral,83718.36
+2017,G,E,3231,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,3231,21200,"Reparaciones, mantenimiento y conservación. Edificios y otra",7180.03
+2017,G,E,3231,21300,"Reparación, mantenimiento y conservación, maquinaria y utill",7140.24
+2017,G,E,3231,22001,"Prensa, revistas, libros y otras publicaciones",597.5
+2017,G,E,3231,22100,Suministro energía eléctrica,14320.01
+2017,G,E,3231,22103,Combustible y carburantes,12397.73
+2017,G,E,3231,22104,Vestuario,3752.86
+2017,G,E,3231,22199,Otros suministros,11445.69
+2017,G,E,3231,22699,Otros gastos diversos,
+2017,G,E,3231,22700,Limpieza y aseo,51114.67
+2017,G,E,3231,22799,Otros trabajos realizados por otras emrpresas y profesionale,108665.74
+2017,G,E,3231,62300,"Maquinaria, instalaciones y utillaje",25913.12
+2017,G,E,3231,63300,"Maquinaria, instalaciones y utillaje",
+2017,G,E,3231,63500,Mobiliario,9135.5
+2017,G,E,3260,13000,Retribuciones básicas,90852.59
+2017,G,E,3260,13010,Productividad,748.91
+2017,G,E,3260,16001,Seguridad Social. Personal laboral,17752.64
+2017,G,E,3260,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,3260,22199,Otros suministros,59.84
+2017,G,E,3260,22699,Otros gastos diversos,
+2017,G,E,3261,13000,Retribuciones básicas,298654.73
+2017,G,E,3261,13001,Horas extraordinarias,1703.65
+2017,G,E,3261,13002,Otras remuneraciones,7540.16
+2017,G,E,3261,16000,Seguridad Social. Personal funcionario,
+2017,G,E,3261,16001,Seguridad Social. Personal laboral,80870.88
+2017,G,E,3261,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,3261,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,3261,21200,Reparación y mantenimiento edificios y otras construcciones,214.44
+2017,G,E,3261,21300,"Reparaciones, mantenimiento maquinaria",2411.31
+2017,G,E,3261,22001,"Prensa, revistas, libros y otras publicaciones",
+2017,G,E,3261,22100,Suministro energía eléctrica,3783.48
+2017,G,E,3261,22103,Combustible y carburantes,1522.53
+2017,G,E,3261,22199,Otros suministros,776.91
+2017,G,E,3261,22699,Otros gastos diversos,1455.86
+2017,G,E,3261,22700,Limpieza y aseo,7720.41
+2017,G,E,3261,22799,Otros trabajos realizados por otras emrpresas y profesionale,20814.29
+2017,G,E,3261,48900,Otras transferencias,15552
+2017,G,E,3261,62300,"Maquinaria, instalaciones y utillaje",
+2017,G,E,3261,62500,Mobiliario,270.18
+2017,G,E,3321,13000,Retribuciones básicas,147966.74
+2017,G,E,3321,13001,Horas extraordinarias,1923.31
+2017,G,E,3321,13002,Otras remuneraciones,14087.41
+2017,G,E,3321,16001,Seguridad Social. Personal laboral,49445.61
+2017,G,E,3321,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,3321,21300,"Reparación y mantenimiento maquinaria, instalaciones y utill",1334.22
+2017,G,E,3321,21600,Reparaciones y mantenimiento equipamiento procesos informac.,10533.98
+2017,G,E,3321,22001,"Prensa, revistas, libros y otras publicaciones",3760.43
+2017,G,E,3321,22010,Fondos de biblioteca y material audiovisual,14644.22
+2017,G,E,3321,22100,Suministro energía eléctrica,4917.86
+2017,G,E,3321,22104,Vestuario,
+2017,G,E,3321,22199,Otros suministros,1865.34
+2017,G,E,3321,22699,Otros gastros diversos,867.96
+2017,G,E,3321,22700,Limpieza y aseo,8337.94
+2017,G,E,3321,22799,Otros trabajos realizados por otras empresas,35433.14
+2017,G,E,3321,62500,Mobiliario,
+2017,G,E,3321,63201,Adecuación edificio Biblioteca,
+2017,G,E,3330,12003,Retribuciones básicas. Sueldos del Grupo C1,11291.78
+2017,G,E,3330,12006,Retribuciones básicas. Trienios,1010.91
+2017,G,E,3330,12100,Retribuciones complementarias. Complemento de destino,6241.08
+2017,G,E,3330,12101,Retribuciones complementarias. Complemento específico,9472.53
+2017,G,E,3330,13000,Retribuciones básicas,262275.12
+2017,G,E,3330,13001,Horas extraordinarias,4726.52
+2017,G,E,3330,13002,Otras remuneraciones,47458.6
+2017,G,E,3330,13010,Productividad personal laboral,7503.01
+2017,G,E,3330,15000,Productividad,6040.03
+2017,G,E,3330,16000,Seguridad Social. Personal funcionario,8564.77
+2017,G,E,3330,16001,Seguridad Social. Personal laboral,94631.98
+2017,G,E,3330,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,3330,16300,Formación y perfeccionamiento personal laboral,476
+2017,G,E,3330,20300,Alquiler maquinaria instalaciones y utillaje,11918.87
+2017,G,E,3330,20900,Cánones,8973.77
+2017,G,E,3330,21300,"Reparaciones, mantenimiento y conservación. Maquinaría, inst",27538.89
+2017,G,E,3330,21500,Reparación mobiliario  y enseres,
+2017,G,E,3330,21600,Reparaciones y mantenimiento equipamiento procesos informac.,5070.98
+2017,G,E,3330,22100,Suministro energía eléctrica,43442.92
+2017,G,E,3330,22104,Vestuario,324.58
+2017,G,E,3330,22199,Otros suministros,14680.21
+2017,G,E,3330,22300,Transportes,249.6
+2017,G,E,3330,22400,Primas de seguros,692.88
+2017,G,E,3330,22602,Publicidad y propaganda,29262.75
+2017,G,E,3330,22606,"Reuniones, conferencias y cursos",
+2017,G,E,3330,22699,Otros gastos diversos,86.4
+2017,G,E,3330,22700,Limpieza y aseo,32338.9
+2017,G,E,3330,22799,Otros trabajos realizados por otras emrpresas y profesionale,287006.25
+2017,G,E,3330,48100,Premios,7000
+2017,G,E,3330,48900,Otras transferencias,1500
+2017,G,E,3330,62300,"Maquinaria, instalaciones y utilllaje",
+2017,G,E,3330,62500,Mobiliario,
+2017,G,E,3330,63201,Inversión de reposición edificios y otras construcciones,125835.75
+2017,G,E,3340,12004,Retribuciones básicas. Sueldos del Grupo C2,3935.4
+2017,G,E,3340,12006,Retribuciones básicas. Trienios,730.73
+2017,G,E,3340,12100,Retribuciones complementarias. Complemento de destino,2013.65
+2017,G,E,3340,12101,Retribuciones complementarias. Complemento específico,3419.78
+2017,G,E,3340,13000,Retribuciones básicas,344812.8
+2017,G,E,3340,13002,Otras remuneraciones,694
+2017,G,E,3340,13010,Productividad personal laboral,4488.18
+2017,G,E,3340,15000,Complemento de productividad,1814.79
+2017,G,E,3340,16000,Seguridad Social. Personal funcionario,2498.35
+2017,G,E,3340,16001,Seguridad Social. Personal laboral,107234.15
+2017,G,E,3340,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,3340,16300,Formación y perfeccionamiento personal laboral,400
+2017,G,E,3340,20300,"Alquiler maquinaria, instalaciones y utillaje",
+2017,G,E,3340,21500,"Reparaciones, mantenimiento y conservación. Mobiliario y ens",
+2017,G,E,3340,22001,"Prensa, revistas, libros y otras publicaciones",
+2017,G,E,3340,22010,Fondos de biblioteca y material audiovisual,
+2017,G,E,3340,22104,Vestuario,150
+2017,G,E,3340,22300,Transportes,1355.2
+2017,G,E,3340,22602,Publicidad y propaganda,1121.24
+2017,G,E,3340,22699,Otros gastos diversos,245
+2017,G,E,3340,22799,Otros trabajos realizados por otras emrpresas y profesionale,26737.43
+2017,G,E,3340,48900,Otras transferencias,29880.44
+2017,G,E,3340,62900,Instrumentos,
+2017,G,E,3371,13000,Retribuciones básicas,98812.87
+2017,G,E,3371,13001,Horas extraordinarias,
+2017,G,E,3371,13002,Otras remuneraciones,3502.15
+2017,G,E,3371,13010,Productividad Personal Laboral,13675.12
+2017,G,E,3371,16001,Seguridad Social. Personal laboral,35608.82
+2017,G,E,3371,16300,Formación y perfeccionamiento personal laboral,262.5
+2017,G,E,3371,20300,"Alquiler maquinaría, instalaciones y utillaje",1467.5
+2017,G,E,3371,22103,Combustible y carburantes,
+2017,G,E,3371,22104,Vestuario,
+2017,G,E,3371,22105,Productos alimenticios,527.75
+2017,G,E,3371,22199,Otros suministros,811.39
+2017,G,E,3371,22300,Transportes,3958.3
+2017,G,E,3371,22602,Publicidad y propaganda,1634.18
+2017,G,E,3371,22699,Otros gastos diversos,961.24
+2017,G,E,3371,22799,Otros trabajos realizados por otras emrpresas y profesionale,105074.25
+2017,G,E,3371,48100,"Premios, becas",650
+2017,G,E,3380,20300,"Arrendamiento maquinaria, instalaciones y utillaje",34412.6
+2017,G,E,3380,22609,Actividades culturales y deportivas,72160.72
+2017,G,E,3380,22699,Otros gastos diversos,15027.98
+2017,G,E,3380,22799,Otros trabajos realizados por otras empresas y particulares,47953.44
+2017,G,E,3380,48900,Otras transferencias,4000
+2017,G,E,3420,12003,Retribuciones básicas. Sueldos del Grupo C1,15723.74
+2017,G,E,3420,12004,Retribuciones básicas. Sueldos del Grupo C2,9714.37
+2017,G,E,3420,12006,Retribucines básicas. Trienios,3057.64
+2017,G,E,3420,12100,Retribuciones complementarias. Complemento de destino,9765.21
+2017,G,E,3420,12101,Retribuciones complementarias. Complemento específico,16204.01
+2017,G,E,3420,13000,Retribuciones básicas,520008.71
+2017,G,E,3420,13001,Horas extraordinarias,2273.93
+2017,G,E,3420,13002,Otras remuneraciones,61068.14
+2017,G,E,3420,13010,Productividad personal laboral,36185.44
+2017,G,E,3420,14300,Otro personal laboral,16963.59
+2017,G,E,3420,15000,Complemento de productividad,9668.76
+2017,G,E,3420,16000,Seguridad Social. Personal funcionario,15016.35
+2017,G,E,3420,16001,Seguridad Social. Personal laboral,196502.65
+2017,G,E,3420,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,3420,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,3420,20300,"Arrendamiento maquinaria, instalaciones y utillaje",3941.58
+2017,G,E,3420,20400,Arrendamiento material de transporte,
+2017,G,E,3420,21300,"Reparaciones, mantenimiento y conservación. Intalaciones",20364.47
+2017,G,E,3420,21600,Reparaciones y mantenimiento equipamiento procesos informac.,1577.76
+2017,G,E,3420,22100,Suministro energía eléctrica,106519.71
+2017,G,E,3420,22103,Combustible y carburantes,75526.06
+2017,G,E,3420,22104,Vestuario,5552.69
+2017,G,E,3420,22105,Productos alimenticios,
+2017,G,E,3420,22199,Otros suministros,59291.77
+2017,G,E,3420,22300,Transportes,21095.5
+2017,G,E,3420,22400,Primas de seguros,402.54
+2017,G,E,3420,22602,Publicidad y propaganda,427.61
+2017,G,E,3420,22699,Otros gastos diversos,311.32
+2017,G,E,3420,22700,Limpieza y aseo,49569.61
+2017,G,E,3420,22710,Otros servicios realizados por asociaciones deportivas,64394.9
+2017,G,E,3420,22799,Otros trabajos realizados por otras emrpresas y profesionale,223961.94
+2017,G,E,3420,48000,Otras transferencias corrientes,63000
+2017,G,E,3420,48900,Otras transferencias,72119.26
+2017,G,E,3420,62300,Maquinaria,
+2017,G,E,3420,62500,MOBILIARIO,9922.97
+2017,G,E,3420,63100,Inversión reposición terrenos y bienes naturales,
+2017,G,E,3420,63200,Inv.reposisición edificios y otras contrucciones,
+2017,G,E,3420,63201,Inversión de reposición edificios y otras contrucciones,72540.33
+2017,G,E,4331,12003,Retribuciones básicas. Sueldos del Grupo C1,11494.91
+2017,G,E,4331,12006,Retribucionrd básicas. Trienios,2577.33
+2017,G,E,4331,12100,Retribuciones complementarias. Complemento de destino,6241.08
+2017,G,E,4331,12101,Retribuciones complementarias. Complemento específic,9472.53
+2017,G,E,4331,13000,Retribuciones básicas,28877.26
+2017,G,E,4331,15000,Complemento de productividad,6496.08
+2017,G,E,4331,15100,Gratificaciones,
+2017,G,E,4331,16000,Seguridad Social. Personal funcionario,9178.32
+2017,G,E,4331,16001,Seguridad Social. Personal laboral,8913.62
+2017,G,E,4331,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,4331,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,4331,22199,Otros suministros,
+2017,G,E,4331,22602,Publicidad y propaganda,8085.21
+2017,G,E,4331,22699,Otros gastos diversos,252
+2017,G,E,4331,22799,Otros trabajos realizados por otras emrpresas y profesionale,69004.58
+2017,G,E,4331,62300,Maquinaria,
+2017,G,E,4590,62300,"Maquinaria, instalaciones y utillaje",
+2017,G,E,4910,13000,Retribuciones básicas,101257.68
+2017,G,E,4910,13010,Productividad Personal Laboral,5177.13
+2017,G,E,4910,16001,Seguridad Social. Personal laboral,33573.11
+2017,G,E,4910,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,4910,21600,Reparaciones y mantenimiento equipamiento procesos informac.,38892.97
+2017,G,E,4910,22199,Otros suministros,35
+2017,G,E,4910,22602,Publicidad y propaganda,15981.44
+2017,G,E,4910,22699,Otros gastos diversos,363.86
+2017,G,E,4910,22799,Otros trabajos realizados por otras emrpresas y profesionale,204563.8
+2017,G,E,4910,48100,"Premios, becas y pensiones de estudio",270
+2017,G,E,4910,62300,"Maquinaria, instalaciones y utilllaje",2999.99
+2017,G,E,9120,10000,Retribuciones órganos de gobierno,417908.22
+2017,G,E,9120,11000,Retribuciones personal eventual,107031.16
+2017,G,E,9120,12003,Retribuciones báscias. Sueldos del Grupo C1,11587.67
+2017,G,E,9120,12004,Retribuciones básicas. Sueldos del Grupo C2,10794.39
+2017,G,E,9120,12006,Retribuciones básicas. Trienios,4757.69
+2017,G,E,9120,12100,Retribuciones complementarias. Complemento de destino,10791.91
+2017,G,E,9120,12101,Retribuciones complementarias. Complemento específico,17484.76
+2017,G,E,9120,13000,Retribuciones básicas,22407.03
+2017,G,E,9120,13001,Horas extraordinarias,
+2017,G,E,9120,13010,Productividad personal laboral,8155.55
+2017,G,E,9120,15000,Productividad,12937.8
+2017,G,E,9120,15100,Gratificaciones,2947.97
+2017,G,E,9120,16000,Seguridad Social. Personal funcionario,49128.64
+2017,G,E,9120,16001,Seguridad Social. Personal laboral,9918.97
+2017,G,E,9120,16003,Seguridad Social. Altos Cargos,133011.12
+2017,G,E,9120,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,9120,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,9120,22105,Productos alimenticios,435.9
+2017,G,E,9120,22601,Atenciones protocolarias y representarivas,5381.61
+2017,G,E,9120,22606,"Reuniones, conferencias y cursos",11811.6
+2017,G,E,9120,22699,Otros gastos diversos,7089.22
+2017,G,E,9120,23000,Dietas órganos de gobierno,311.8
+2017,G,E,9120,23100,Locomoción órganos de gobierno,717.68
+2017,G,E,9120,23300,Otras indemnizaciones,7500
+2017,G,E,9120,48902,Asignaciones a Grupos Políticos,15000
+2017,G,E,9200,12000,Retribuciones básicas. Sueldos del Grupo A1,35560.8
+2017,G,E,9200,12001,Retribuciones básicas. Sueldos del Grupo A2,14745.68
+2017,G,E,9200,12003,Retribuciones básicas. Sueldos del Grupo C1,125821.78
+2017,G,E,9200,12004,Retribuciones básicas. Sueldos del Grupo C2,26663.09
+2017,G,E,9200,12006,Retribuciones básicas. Trienios,33439.35
+2017,G,E,9200,12100,Retribuciones complementarias. Complemento de destino,108801.95
+2017,G,E,9200,12101,Retribuciones complementarias. Complemento específico,192235.66
+2017,G,E,9200,15000,Complemento de Productividad.,129225.58
+2017,G,E,9200,15100,Gratificaciones,3606.11
+2017,G,E,9200,16000,Seguridad Social. Personal funcionario,149116.44
+2017,G,E,9200,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,9200,21600,Reparaciones y mantenimiento equipamiento procesos informac.,17180.93
+2017,G,E,9200,22001,"Prensa, revistas, libros y otras publicaciones",10544.32
+2017,G,E,9200,22602,Publicidad y propaganda,1205.16
+2017,G,E,9200,22603,Publicación en diarios oficiales,11558.68
+2017,G,E,9200,22604,Gastos jurídicos,97766.09
+2017,G,E,9200,22799,Otros trabajos realiados por otras empresas y particulares,905.47
+2017,G,E,9200,64100,Aplicaciones informáticas,
+2017,G,E,9201,12001,Retribuciones básicas. Sueldos del Grupo A2,14590.47
+2017,G,E,9201,12003,Retribuciones básicas. Sueldos del Grupo C1,22850.68
+2017,G,E,9201,12006,Retribucines básicas. Trienios,4134.47
+2017,G,E,9201,12100,Retribuciones complementarias. Complemento de destino,21029.1
+2017,G,E,9201,12101,Retribuciones complementarias. Complemento específico,30083.12
+2017,G,E,9201,14300,Otro Personal Laboral,
+2017,G,E,9201,15000,Complemento de Productividad.,19891.94
+2017,G,E,9201,15100,Gratificaciones,
+2017,G,E,9201,16000,Seguridad Social. Personal funcionario,29774.04
+2017,G,E,9201,16001,Seguridad Social. Personal laboral,
+2017,G,E,9201,16200,Formqación y perfeccionamiento personal funcionario,
+2017,G,E,9201,20300,Arrendamiento maquinaria,21134.73
+2017,G,E,9201,21300,"Reparaciones, mantenimiento y conservación. Maquinaría, inst",5150.3
+2017,G,E,9201,21600,"Reparaciones, mantenimiento y cons. Equipamiento para proces",65946.28
+2017,G,E,9201,22000,Material de oficina no inventariable,10403.22
+2017,G,E,9201,22002,Material informático no inventariable,5044.91
+2017,G,E,9201,22203,Comunicaciones informáticas,5127.19
+2017,G,E,9201,22799,Otros trabajos realizados por otras emrpresas y profesionale,24312.47
+2017,G,E,9201,62600,Equipos para procesos de información,14570.15
+2017,G,E,9201,64100,Gastos en aplicaciones informáticas,3619.72
+2017,G,E,9202,12003,Retribuciones básicas. Sueldos del Grupo C1,734.51
+2017,G,E,9202,12005,Retribuciones básicas. Sueldos del Grupo E,19797.05
+2017,G,E,9202,12006,Retribucines básicas. Trienios,837.62
+2017,G,E,9202,12100,Retribuciones complementarias. Complemento de destino,7305.26
+2017,G,E,9202,12101,Retribuciones complementaras. Complemento específico,16382.09
+2017,G,E,9202,13000,Retribuciones básicas,18598.14
+2017,G,E,9202,13001,Horas extraordinarias,
+2017,G,E,9202,13002,Otras remuneraciones,
+2017,G,E,9202,13010,Productividad personal laboral,
+2017,G,E,9202,14300,Otro Personal Laboral,124584.44
+2017,G,E,9202,15000,Complemento de Productividad.,7788.22
+2017,G,E,9202,15100,Gratificaciones,502.31
+2017,G,E,9202,16000,Seguridad Social. Personal funcionario,14474.89
+2017,G,E,9202,16001,Seguridad Social. Personal laboral,32663.05
+2017,G,E,9202,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,9202,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,9202,20300,"Arrendamiento de maquinaria, instalaciones y utillaje",
+2017,G,E,9202,20400,Arrendamientos. Material de Transporte,4687.06
+2017,G,E,9202,20900,Cánones,
+2017,G,E,9202,21300,"Reparaciones, mantenimiento y conservación. Maquinaría, inst",59886.84
+2017,G,E,9202,21400,"Reparaciones, mantenimiento y conservación. Material de tran",3113.46
+2017,G,E,9202,22000,Material de oficina no inventariable,20902.38
+2017,G,E,9202,22001,"Prensa, revistas, libros y otras publicaciones",644.56
+2017,G,E,9202,22100,Suministro energía eléctrica,99724.94
+2017,G,E,9202,22101,Suministro agua,81174.11
+2017,G,E,9202,22103,Suministro combustible y carburantes,16876.71
+2017,G,E,9202,22106,Productos farmaceúticos y material sanitario,
+2017,G,E,9202,22110,Productos de limpieza y aseo,
+2017,G,E,9202,22199,Otros suministros,17553.67
+2017,G,E,9202,22200,Servicios de telecomunicaciones,202761.4
+2017,G,E,9202,22201,Servicios postales,17023.4
+2017,G,E,9202,22202,Telegráficas,
+2017,G,E,9202,22300,Transportes,
+2017,G,E,9202,22400,Primas de seguros,132592.42
+2017,G,E,9202,22500,Tributos Estatales,100
+2017,G,E,9202,22601,Atenciones protocolarias y representativas,
+2017,G,E,9202,22603,Publicación en diarios oficiales,12086.36
+2017,G,E,9202,22606,"Reuniones, conferencias y cursos",
+2017,G,E,9202,22610,Sanciones,321.65
+2017,G,E,9202,22699,Otros gastos diversos,1255.98
+2017,G,E,9202,22700,Limpieza y aseo,172798.76
+2017,G,E,9202,22799,Otros trabajos realizados por otras empresas,2094.42
+2017,G,E,9202,23130,Locomoción del personal,7061.23
+2017,G,E,9202,62300,"Maquinaria, instalaciones y utilllaje",21306.65
+2017,G,E,9202,62500,Mobiliario,664.07
+2017,G,E,9202,63201,Inversión reposición edificios y otras contrucciones,21045.53
+2017,G,E,9250,12003,Retribuciones básicas. Sueldos del Grupo C1,21718.39
+2017,G,E,9250,12004,Retribuciones básicas. Sueldos del Grupo C2,9352.57
+2017,G,E,9250,12006,Retribuciones básicas. Trienios,3824.51
+2017,G,E,9250,12100,Retribuciones complementarias. Complemento de destino,16690.82
+2017,G,E,9250,12101,Retribuciones complementarias. Complemento de destino,26431.74
+2017,G,E,9250,13000,Retrobuciones básicas,35139.58
+2017,G,E,9250,15000,Complemento productividad,17320.09
+2017,G,E,9250,16000,Seguridad Social. Personal funcionario,24409.57
+2017,G,E,9250,16001,Seguridad Social. Personal laboral,9674.75
+2017,G,E,9250,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,9250,16300,Formación y perfeccionamiento personal laboral,
+2017,G,E,9250,21600,Reparaciones y mantenimiento equipamiento procesos informac.,667.92
+2017,G,E,9250,22699,Otros gastos diversos,
+2017,G,E,9250,22799,Otros trabajos realizados por otras emrpresas y profesionale,38833.1
+2017,G,E,9250,48900,Otras transferencias,18000
+2017,G,E,9290,50000,Fondo de contingencia,
+2017,G,E,9310,12000,Retribuciones básicas. Sueldos del Grupo A1,17324.83
+2017,G,E,9310,12003,Retribuciones básicas. Sueldos del Grupo C1,22876.66
+2017,G,E,9310,12004,Retribuciones básicas. Sueldos del Grupo C2,29583.07
+2017,G,E,9310,12006,Retribuciones básicas. Trienios,11223.41
+2017,G,E,9310,12100,Retribuciones complementarias. Complemento de destino,38586.63
+2017,G,E,9310,12101,Retribucines complementarias. Complemento específico,76848.58
+2017,G,E,9310,15000,Complemento de productividad,55636.4
+2017,G,E,9310,15100,Gratificaciones,94.75
+2017,G,E,9310,16000,Seguridad Social. Personal funcionario,52574.6
+2017,G,E,9310,16200,Formación y perfeccionamiento personal funcionario,
+2017,G,E,9310,21600,Reparaciones y mantenimiento equipamiento procesos informaci,19790.04
+2017,G,E,9310,22001,"Prensa, revistas, libros y otras publicaciones",
+2017,G,E,9310,22699,Otros gastos diversos,
+2017,G,E,9310,22799,Otros trabajos realizados por otras empresas,
+2017,G,E,9330,62200,Edificios y otras construcciones,48826.15
+2017,G,E,9330,62300,"Maquinaria, instalaciones y utillaje",201136.8
+2017,G,E,9330,63201,Inversión reposición edificios y otras construcciones,44569.85
+2017,G,E,9341,12000,Retribuciones básicas. Sueldos del Grupo A1,16948.96
+2017,G,E,9341,12003,Retribuciones básicas. Sueldos del Grupo C1,81609.21
+2017,G,E,9341,12004,Retribucines básicas. Sueldos del Grupo C2,28974.89
+2017,G,E,9341,12006,Retribuciones básicas. Trienios,15652.25
+2017,G,E,9341,12100,Retribuciones complementarias. Complemento de destino,69129.78
+2017,G,E,9341,12101,Retribuciones complementarias. Complemento específico,123365.99
+2017,G,E,9341,15000,Complemento de Productividad.,84230.68
+2017,G,E,9341,15100,Gratificaciones,
+2017,G,E,9341,16000,Seguridad Social. Personal funcionario,94606.12
+2017,G,E,9341,16200,Formación y perfeccionamiento personal funcionario,360
+2017,G,E,9341,20600,Arrendamientos de equipos para procesos de información,39838.49
+2017,G,E,9341,21600,Reparaciones y mantenimiento equipamiento procesos informac.,13095.22
+2017,G,E,9341,22001,"Prensa, revistas, libros y otras publicaciones",
+2017,G,E,9341,22002,Material informático no inventariable,349.69
+2017,G,E,9341,22200,Servicios de telecomunicaciones,344.61
+2017,G,E,9341,22603,Publicación en diarios oficiales,1237.6
+2017,G,E,9341,22708,Convenio AEAT,955.58
+2017,G,E,9341,22799,Otros trabajos realizados por otras emrpresas y profesionale,99149.41
+2017,G,E,9341,35900,Intereses demora,
+2017,G,E,9341,62300,"Maquinaria, instalaciones y utillaje",5605.46
+2017,G,E,9410,46700,Transferencias a Consorcio de Transportes,307985.08
+2017,G,E,9420,46300,A Mancomunidades,431418.42
