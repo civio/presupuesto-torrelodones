@@ -1,0 +1,593 @@
+#Año,Tipo,Presupuesto,Programa,Económica,Descripción,Inicial
+2018,G,P,0110,31001,Intereses Operaciones de Tesorería,40000
+2018,G,P,0110,31004,Intereses DEXIA SABADELL préstamo 2008 nº 36154507,2000
+2018,G,P,0110,31005,Intereses BANESTO préstamo 2008 nº 489103,1500
+2018,G,P,0110,31021,Intereses refinanciación deuda BBVA-BCL,35000
+2018,G,P,0110,35900,Otros gastos financieros,5000
+2018,G,P,0110,91304,Amortización DEXIA SABADELL préstamo 2008 nº 36154507,140000
+2018,G,P,0110,91305,Amortización BANESTO préstamo 2008 nº 489103,93000
+2018,G,P,0110,91321,Amortización refinanciación deuda BBVA-BCL,70000
+2018,G,P,1320,12001,Retribuciones básicas. Sueldos del Grupo A2,0
+2018,G,P,1320,12003,Retribuciones básicas. Sueldos del Grupo C1,25050
+2018,G,P,1320,12004,Retribuciones básicas. Sueldos del Grupo C2,437800
+2018,G,P,1320,12006,Retribuciones básicas. Trienios,67810
+2018,G,P,1320,12100,Retribuciones complementarias. Complemento de destino,221380
+2018,G,P,1320,12101,Retribuciones complementarias. Complemento específico,860775
+2018,G,P,1320,14300,Otro personal,0
+2018,G,P,1320,15000,Complemento de productividad,425655
+2018,G,P,1320,15100,Gratificaciones,30000
+2018,G,P,1320,16000,Seguridad Social. Personal Funcionario,567605
+2018,G,P,1320,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,1320,20200,Arrendamiento de edificios y otras construcciones,10800
+2018,G,P,1320,20400,Arrendamiento material de transporte,12700
+2018,G,P,1320,21300,"Reparación y mantenimiento maquinaria, instalaciones",19500
+2018,G,P,1320,21400,Reparación y mantenimiento material de transporte,5500
+2018,G,P,1320,22100,Suministro energía eléctrica,17500
+2018,G,P,1320,22103,Combustibles y carburantes,12000
+2018,G,P,1320,22104,Vestuario,15000
+2018,G,P,1320,22199,Otros suministros,4000
+2018,G,P,1320,22601,Atenciones protocolarias y representativas,700
+2018,G,P,1320,22603,Publicación en diarios oficiales,0
+2018,G,P,1320,22699,Otros gastos diversos,4500
+2018,G,P,1320,22700,Limpieza y aseo,25350
+2018,G,P,1320,22799,Otros trabajos realizados por otras empresas y profesionales,50000
+2018,G,P,1320,62500,Mobiliario,3000
+2018,G,P,1320,62600,Mobiliario,11800
+2018,G,P,1330,20000,Arrendamiento de terrenos y bienes naturales,29050
+2018,G,P,1330,20300,Alquiler 19,42000
+2018,G,P,1330,22799,Otros trabajos realizados por otras empresas y profesionales,8000
+2018,G,P,1330,61900,Otras inversiones de reposición de infraestructuras y bienes,165000
+2018,G,P,1330,62300,"Maquinaria, instalaciones y utillaje",
+2018,G,P,1350,13000,Retribuciones básicas,86950
+2018,G,P,1350,13001,Horas extraordinarias,6000
+2018,G,P,1350,13002,Otras remuneraciones,9385
+2018,G,P,1350,13010,Productividad,4480
+2018,G,P,1350,14300,Otro personal,24950
+2018,G,P,1350,16000,Seguridad Social. Personal Funcionario,8310
+2018,G,P,1350,16001,Seguridad Social. Personal Laboral,33695
+2018,G,P,1350,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,1350,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,1350,21300,"Reparación, mantenimiento y conservación. Maquinaria, instal",20000
+2018,G,P,1350,21400,"Reparaciones, mantenimiento y conservación. Material de tran",15000
+2018,G,P,1350,21600,Reparaciones y mantenimiento equipamiento proces. Informá.,3025
+2018,G,P,1350,22000,Material de oficina no inventariable,100
+2018,G,P,1350,22001,"Prensa , revistas, libros y otras publicaciones",100
+2018,G,P,1350,22103,Combustibles y carburantes,3000
+2018,G,P,1350,22104,Vestuario,7000
+2018,G,P,1350,22105,Productos alimenticios,4200
+2018,G,P,1350,22106,Productos farmacéuticos y material sanitario,500
+2018,G,P,1350,22199,Otros suministros,5000
+2018,G,P,1350,22699,Otros gastos diversos,4500
+2018,G,P,1350,22799,Otros trabajos realizados por otras empresas y profesionales,25000
+2018,G,P,1350,62300,"Maquinaria, instalaciones y utillaje",6000
+2018,G,P,1360,22501,Tributos de las Comunidades Autónomas,720000
+2018,G,P,1510,12000,Retribuciones básicas. Sueldos del Grupo A1,34525
+2018,G,P,1510,12001,Retribuciones básicas. Sueldos del Grupo A2,44265
+2018,G,P,1510,12003,Retribuciones básicas. Sueldos del Grupo C1,34350
+2018,G,P,1510,12006,Retribuciones básicas. Trienios,23335
+2018,G,P,1510,12100,Retribuciones complementarias. Complemento de destino,64745
+2018,G,P,1510,12101,Retribuciones complementarias. Complemento específico,106415
+2018,G,P,1510,14300,Otro personal,40045
+2018,G,P,1510,15000,Complemento de productividad,65550
+2018,G,P,1510,15100,Gratificaciones,8000
+2018,G,P,1510,16000,Seguridad Social. Personal Funcionario,109075
+2018,G,P,1510,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,1510,21200,Reparación y mantenimiento edificios y otras construc.,138000
+2018,G,P,1510,22610,Indemnizaciones por responsabilidad patrimonial,50000
+2018,G,P,1510,22706,Estudios y trabajos técnicos,350000
+2018,G,P,1510,22799,Otros trabajos realizados por otras empresas y profesión.,100000
+2018,G,P,1510,60000,Inversiones en terrenos,0
+2018,G,P,1510,62300,"Maquinaria, instalaciones y utillaje",1000
+2018,G,P,1533,13000,Retribuciones básicas,237510
+2018,G,P,1533,13001,Horas extraordinarias,12000
+2018,G,P,1533,13002,Otras remuneraciones,14185
+2018,G,P,1533,13010,Productividad personal laboral,41125
+2018,G,P,1533,14300,Otro personal laboral,48000
+2018,G,P,1533,16001,Seguridad social. Personal Laboral,106780
+2018,G,P,1533,16300,Formación y perfec. Personal laboral,250
+2018,G,P,1533,20300,Arrendamiento maqui. Instal. utillaje,9000
+2018,G,P,1533,20400,Arrendamiento material de transporte,40000
+2018,G,P,1533,20900,Cánones,2500
+2018,G,P,1533,21003,Mantenimiento vías publicas,75000
+2018,G,P,1533,21300,Rep. Mant. Maquinaria. Instal. y utillaje,5000
+2018,G,P,1533,21400,Rep. Mant. Material de transporte,7500
+2018,G,P,1533,22101,Agua,100000
+2018,G,P,1533,22103,Combustible y carburantes,10500
+2018,G,P,1533,22104,Vestuario,4000
+2018,G,P,1533,22199,Otros suministros,22000
+2018,G,P,1533,22799,Otros trabaj. realizados otras empresas,20000
+2018,G,P,1532,21003,Mantenimiento vías públicas,550000
+2018,G,P,1532,22199,Otros suministros,24000
+2018,G,P,1532,61900,Inversión de reposición infr. y bienes,0
+2018,G,P,1610,61900,Otras inversiones de reposicion de infraestructuras,50000
+2018,G,P,1610,78900,Otras transferencias de capital,
+2018,G,P,1621,22502,Tributos de las Entidades Locales,170000
+2018,G,P,1621,22799,Otros trabajos realizados por empresas y profesionales,950000
+2018,G,P,1621,61900,Otras inversiones de reposición de infraestructuras,0
+2018,G,P,1630,20400,Arrendamiento material de transporte,30000
+2018,G,P,1630,22700,Limpieza y aseo,843000
+2018,G,P,1650,21002,Manten. alumbrado publico,176000
+2018,G,P,1650,22100,Energía eléctrica,480000
+2018,G,P,1650,61900,Inversión repos. Infra. y bienes,33000
+2018,G,P,1700,12001,Retribuciones básicas. Sueldos del Grupo A2,14850
+2018,G,P,1700,12003,Retribuciones básicas. Sueldos del Grupo C1,14405
+2018,G,P,1700,12005,Retribuciones básicas. Sueldos del Grupo E,8575
+2018,G,P,1700,12006,Retribuciones básicas. Trienios,4230
+2018,G,P,1700,12100,Retribuciones complementarias. Complemento de destino,19075
+2018,G,P,1700,12101,Retribuciones complementarias. Complemento específico,28560
+2018,G,P,1700,13000,Retribuciones básicas,79550
+2018,G,P,1700,13001,Horas extraordinarias,10000
+2018,G,P,1700,13002,Otras remuneraciones,4230
+2018,G,P,1700,13010,Productividad Personal Laboral,11165
+2018,G,P,1700,14300,Otro personal laboral,110270
+2018,G,P,1700,15000,Complemento de productividad,16390
+2018,G,P,1700,15100,Gratificaciones,3250
+2018,G,P,1700,16000,Seguridad Social. Personal Funcionario,43615
+2018,G,P,1700,16001,Seguridad Social. Personal Laboral,35160
+2018,G,P,1700,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,1700,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,1700,20400,Arrendamiento material de transporte,28800
+2018,G,P,1700,21000,Mantenimiento y conservación de arbolado,50000
+2018,G,P,1700,21001,Mantenimiento fajas contra incendios,6000
+2018,G,P,1700,21300,"Reparación y mantenimiento maquinaria, instalaciones",750
+2018,G,P,1700,22103,Combustible y carburantes,6000
+2018,G,P,1700,22104,Vestuario,5000
+2018,G,P,1700,22199,Otros suministros,18000
+2018,G,P,1700,22500,Tributos estatales,6000
+2018,G,P,1700,22699,Otros gastos diversos,24000
+2018,G,P,1700,22799,Otros trabajos realizados por otras empresas,90000
+2018,G,P,1700,62300,"Maquinaria, instalaciones y utillaje",0
+2018,G,P,1700,63100,Inversión de reposición en terrenos y bienes naturales,0
+2018,G,P,1710,21001,Mantenimiento parques y jardines,735000
+2018,G,P,1710,61900,Otras inversiones reposición infraest.,65000
+2018,G,P,1710,63100,Terrenos y bienes naturales,265000
+2018,G,P,1720,21000,Mantenimiento zonas forestales,10000
+2018,G,P,1720,22199,Otros suministros,5000
+2018,G,P,1720,60900,Otras inversiones nuevas infraes. ,0
+2018,G,P,2210,16103,Pensiones excepcionales,500
+2018,G,P,2210,16204,Acción social personal funcionario,70000
+2018,G,P,2210,16205,Seguros,20000
+2018,G,P,2210,16304,Acción social personal laboral,50000
+2018,G,P,2210,23030,Dietas del personal,500
+2018,G,P,2210,23300,Otras indemnizaciones,8000
+2018,G,P,2210,83001,Préstamos al personal,82000
+2018,G,P,2310,12001,Retribuciones básicas. Sueldos del Grupo A2,15215
+2018,G,P,2310,12003,Retribuciones básicas. Sueldos del Grupo C1,11495
+2018,G,P,2310,12004,Retribuciones básicas. Sueldos del Grupo C2,9570
+2018,G,P,2310,12006,Retribuciones básicas. Trienios,9010
+2018,G,P,2310,12100,Retribuciones complementarias. Complemento de destino,19625
+2018,G,P,2310,12101,Retribuciones complementarias. Complemento específico,33570
+2018,G,P,2310,13000,Retribuciones básicas,86680
+2018,G,P,2310,13002,Otras remuneraciones,5215
+2018,G,P,2310,13010,Productividad Personal Laboral,11070
+2018,G,P,2310,15000,Complemento de Productividad.,20240
+2018,G,P,2310,16000,Seguridad Social. Personal Funcionario,28630
+2018,G,P,2310,16001,Seguridad Social. Personal Laboral,28810
+2018,G,P,2310,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,2310,16200,Formación y perfeccionamiento personal laboral,250
+2018,G,P,2310,21300,"Reparación y mantenimiento maquinaria, instala. Y utillaje  ",9550
+2018,G,P,2310,22001,"Prensa, revistas, libros y otras publicaciones",2000
+2018,G,P,2310,22100,Suministro energía eléctrica,81500
+2018,G,P,2310,22103,Combustible y carburantes,3000
+2018,G,P,2310,22106,Productos farmacéuticos y material sanitario,750
+2018,G,P,2310,22199,Otros suministros,1800
+2018,G,P,2310,22300,Transportes,3200
+2018,G,P,2310,22699,Otros gastos diversos,1000
+2018,G,P,2310,22700,Limpieza y aseo,22690
+2018,G,P,2310,22799,Otros trabajos realizados  otras empresas y profesionales,187000
+2018,G,P,2310,48000,Atenciones benéficas y asistencias,189000
+2018,G,P,2310,48900,Otras transferencias,96740
+2018,G,P,2310,62500,Mobiliario,6500
+2018,G,P,2410,13000,Retribuciones básicas,47280
+2018,G,P,2410,13001,Horas extraordinarias,100
+2018,G,P,2410,13002,Otras remuneraciones,2245
+2018,G,P,2410,13010,Productividad Personal Laboral,1650
+2018,G,P,2410,16001,Seguridad Social. Personal Laboral,16145
+2018,G,P,2410,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,2410,21300,"Reparación, conservación y mantenimiento maquinaria.",1000
+2018,G,P,2410,22000,Material de oficina ordinario no inventariable,4000
+2018,G,P,2410,22104,Vestuario,3000
+2018,G,P,2410,22105,Productos alimenticios,7000
+2018,G,P,2410,22199,Otros suministros,3000
+2018,G,P,2410,22300,Transportes,200
+2018,G,P,2410,22400,Seguros,3000
+2018,G,P,2410,22699,Otros gastos diversos,2000
+2018,G,P,3110,22106,Productos farmacéuticos y material sanitario,
+2018,G,P,3110,22199,Otros suministros,
+2018,G,P,3110,22602,Publicidad y propaganda,
+2018,G,P,3110,22699,Otros gastos diversos,
+2018,G,P,3110,22799,Otros trabajos realizados por otras empresas y profesionales,90000
+2018,G,P,3110,62200,Edificios y otras construcciones,166800
+2018,G,P,3230,12003,Retribuciones básicas. Sueldos del Grupo C1,11290
+2018,G,P,3230,12004,Retribuciones básicas. Sueldos del Grupo C2,9465
+2018,G,P,3230,12006,Retribuciones básicas. Trienios,1665
+2018,G,P,3230,12100,Retribuciones complementarias. Complemento de destino,11075
+2018,G,P,3230,12101,Retribuciones complementarias. Complemento específico,17910
+2018,G,P,3230,13000,Retribuciones básicas,212490
+2018,G,P,3230,13001,Horas extraordinarias,1500
+2018,G,P,3230,13002,Otras remuneraciones,4800
+2018,G,P,3230,13010,Productividad,1977
+2018,G,P,3230,15000,Productividad,11475
+2018,G,P,3230,15100,Gratificaciones,500
+2018,G,P,3230,16000,Seguridad social. Personal Funcionario,14535
+2018,G,P,3230,16001,Seguridad Social. Personal Laboral,68610
+2018,G,P,3230,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,3230,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,3230,20300,"Arrendamiento maquinaria, instalaciones y utillaje",2000
+2018,G,P,3230,21200,"Reparaciones, mantenimiento y conservación. Edific. y otra",60000
+2018,G,P,3230,21300,"Reparaciones y mantenimiento maquinaria, instalaciones",40962
+2018,G,P,3230,22100,Suministro energía eléctrica,60500
+2018,G,P,3230,22103,Combustible y carburantes,50000
+2018,G,P,3230,22199,Otros suministros,13000
+2018,G,P,3230,22300,Transportes,50000
+2018,G,P,3230,22699,Otros gastos diversos,700
+2018,G,P,3230,22700,Limpieza y aseo,267730
+2018,G,P,3230,22799,Otros trabajos realizados por otras empresas y profesionales,45000
+2018,G,P,3230,48100,"Premios, becas y pensiones de estudio",3000
+2018,G,P,3230,48900,Otras transferencias,110000
+2018,G,P,3230,61900,Otras inversiones reposicion infraestructuras,60000
+2018,G,P,3230,63201,Inversión reposición edificios y otras construcciones,0
+2018,G,P,3230,63300,"Maquinaria, instalaciones técnicas y utillaje",11000
+2018,G,P,3230,63500,Mobiliario,0
+2018,G,P,3231,13000,Retribuciones básicas,385560
+2018,G,P,3231,13002,Otras remuneraciones,8010
+2018,G,P,3231,16001,Seguridad Social. Personal Laboral,117850
+2018,G,P,3231,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,3231,21200,"Reparaciones, mantenimiento y conservación. Edificios y otra",15000
+2018,G,P,3231,21300,"Reparación, mantenimiento y conservación, maquinaria y utillaje",8600
+2018,G,P,3231,22001,"Prensa, revistas, libros y otras publicaciones",600
+2018,G,P,3231,22100,Suministro energía eléctrica,15000
+2018,G,P,3231,22103,Combustible y carburantes,30000
+2018,G,P,3231,22104,Vestuario,5000
+2018,G,P,3231,22199,Otros suministros,12000
+2018,G,P,3231,22699,Otros gastos diversos,1000
+2018,G,P,3231,22700,Limpieza y aseo,70070
+2018,G,P,3231,22799,Otros trabajos realizados por otras empresas y profesionales,165000
+2018,G,P,3231,62300,"Maquinaria, instalaciones y utillaje",0
+2018,G,P,3231,63300,"Maquinaria, instalaciones y utillaje",2000
+2018,G,P,3231,63500,Mobiliario,0
+2018,G,P,3261,13000,Retribuciones básicas,292420
+2018,G,P,3261,13001,Horas extraordinarias,2000
+2018,G,P,3261,13002,Otras remuneraciones,10960
+2018,G,P,3261,16000,Seguridad Social. Personal Funcionario,0
+2018,G,P,3261,16001,Seguridad Social. Personal Laboral,99970
+2018,G,P,3261,16200,Formación y perfeccionamiento personal funcionario,0
+2018,G,P,3261,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,3261,21200,Reparacion y mantenimiento edificios y otras const.,12000
+2018,G,P,3261,21300,"Reparación, mantenimiento y conservación, maquinaria y utillaje",4150
+2018,G,P,3261,22001,"Prensa, revistas, libros y otras publicaciones",100
+2018,G,P,3261,22100,Suministro energía eléctrica,4500
+2018,G,P,3261,22103,Combustible y carburantes,5000
+2018,G,P,3261,22199,Otros suministros,3000
+2018,G,P,3261,22699,Otros gastos diversos,2000
+2018,G,P,3261,22700,Limpieza y aseo,10500
+2018,G,P,3261,22799,Otros trabajos realizados por otras empresas y profesionales,20000
+2018,G,P,3261,48900,Otras transferencias,12000
+2018,G,P,3261,62300,"Maquinaria, instalaciones y utillaje",0
+2018,G,P,3261,62500,Mobiliario,0
+2018,G,P,3321,13000,Retribuciones básicas,174550
+2018,G,P,3321,13001,Horas extraordinarias,4000
+2018,G,P,3321,13002,Otras remuneraciones,15670
+2018,G,P,3321,13010,Productividad Personal Laboral,1070
+2018,G,P,3321,16001,Seguridad Social. Personal Laboral,58615
+2018,G,P,3321,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,3321,21300,"Reparación y mantenimiento maquinaria, instal.",2700
+2018,G,P,3321,21600,Repar. Manten. Equipamiento procesos informáticos,20000
+2018,G,P,3321,22001,"Prensa, revistas, libros y otras publicaciones",4000
+2018,G,P,3321,22010,Fondos de biblioteca y material audiovisual,20000
+2018,G,P,3321,22100,Suministro energía eléctrica,7600
+2018,G,P,3321,22104,Vestuario,500
+2018,G,P,3321,22199,Otros suministros,1200
+2018,G,P,3321,22699,Otros gastos diversos,200
+2018,G,P,3321,22700,Limpieza y aseo,11330
+2018,G,P,3321,22799,Otros trabajos realizados por otras empresas,15000
+2018,G,P,3321,62500,Mobiliario,0
+2018,G,P,3321,63201,Adecuación edificio biblioteca,600000
+2018,G,P,3330,12003,Retribuciones básicas. Sueldos del Grupo C1,11320
+2018,G,P,3330,12004,Retribuciones básicas. Sueldos del Grupo C2,9645
+2018,G,P,3330,12006,Retribuciones básicas. Trienios,2955
+2018,G,P,3330,12100,Retribuciones complementarias. Complemento de destino,11075
+2018,G,P,3330,12101,Retribuciones complementarias. Complemento específico,13690
+2018,G,P,3330,13000,Retribuciones básicas,267450
+2018,G,P,3330,13001,Horas extraordinarias,7000
+2018,G,P,3330,13002,Otras remuneraciones,49465
+2018,G,P,3330,13010,Productividad personal laboral,7780
+2018,G,P,3330,15000,Productividad,10505
+2018,G,P,3330,16000,Seguridad Social. Personal Funcionario,14915
+2018,G,P,3330,16001,Seguridad Social. Personal Laboral,109655
+2018,G,P,3330,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,3330,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,3330,20300,Alquiler maquinaria instalaciones y utillaje,12000
+2018,G,P,3330,20900,Cánones,15000
+2018,G,P,3330,21300,"Reparaciones, mantenimiento y conservación. Maquinaría, inst",30000
+2018,G,P,3330,21500,Reparación mobiliario  y enseres,400
+2018,G,P,3330,21600,Repar. Manteni. Equipos de procesos informáticos,6000
+2018,G,P,3330,22100,Suministro energía eléctrica,62100
+2018,G,P,3330,22104,Vestuario,1000
+2018,G,P,3330,22199,Otros suministros,10000
+2018,G,P,3330,22300,Transportes,4000
+2018,G,P,3330,22400,Primas de seguros,5000
+2018,G,P,3330,22602,Publicidad y propaganda,35000
+2018,G,P,3330,22606,"Reuniones, conferencias y cursos",2000
+2018,G,P,3330,22699,Otros gastos diversos,100
+2018,G,P,3330,22700,Limpieza y aseo,42690
+2018,G,P,3330,22799,Otros trabajos realizados por otras empresas y profesionales,300000
+2018,G,P,3330,48100,Premios,15000
+2018,G,P,3330,48900,Otras transferencias,1500
+2018,G,P,3330,62300,"Maquinaria, instalaciones  utillaje",20000
+2018,G,P,3330,62500,Mobiliario,0
+2018,G,P,3330,63201,Inversión de reposición edificios y otras construcciones,0
+2018,G,P,3340,12004,Retribuciones básicas. Sueldos del Grupo C2,0
+2018,G,P,3340,12006,Retribuciones básicas. Trienios,0
+2018,G,P,3340,12100,Retribuciones básicas. Complemento de destino,0
+2018,G,P,3340,12101,Retribuciones básicas. Complemento especifico,0
+2018,G,P,3340,13000,Retribuciones básicas,361480
+2018,G,P,3340,13002,Otras remuneraciones,0
+2018,G,P,3340,13010,Productividad personal laboral,6980
+2018,G,P,3340,15000,Complemento de productividad,0
+2018,G,P,3340,16000,Seguridad Social. Personal Funcionario,0
+2018,G,P,3340,16001,Seguridad Social. Personal Laboral,113230
+2018,G,P,3340,16200,Formación y perfeccionamiento personal funcionario,0
+2018,G,P,3340,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,3340,20300,"Alquiler maquinaria, instalaciones y utillaje",300
+2018,G,P,3340,21500,"Reparaciones, mantenimiento y conservación. Mobiliario y ens",2000
+2018,G,P,3340,22001,"Prensa, revistas, libros y otras publicaciones",350
+2018,G,P,3340,22010,Fondos de biblioteca y material audiovisual,1000
+2018,G,P,3340,22104,Vestuario,2500
+2018,G,P,3340,22300,Transportes,5000
+2018,G,P,3340,22602,Publicidad y propaganda,800
+2018,G,P,3340,22699,Otros gastos diversos,1500
+2018,G,P,3340,22799,Otros trabajos realizados por otras empresas y profesionales,25000
+2018,G,P,3340,48900,Otras transferencias,30000
+2018,G,P,3340,62300,"Maquinaria, instalaciones y utillaje",3000
+2018,G,P,3340,62900,Instrumentos,5700
+2018,G,P,3371,13000,Retribuciones básicas,80550
+2018,G,P,3371,13001,Horas extraordinarias,500
+2018,G,P,3371,13002,Otras remuneraciones,1290
+2018,G,P,3371,13010,Productividad. Personal laboral,12425
+2018,G,P,3371,16001,Seguridad Social. Personal Laboral,29155
+2018,G,P,3371,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,3371,20300,"Arrendamiento maquinaria, instalaciones y utillaje",2060
+2018,G,P,3371,22103,Combustible y carburantes,500
+2018,G,P,3371,22104,Vestuario,500
+2018,G,P,3371,22105,Productos alimenticios,600
+2018,G,P,3371,22199,Otros suministros,2800
+2018,G,P,3371,22300,Transportes,5700
+2018,G,P,3371,22602,Publicidad y propaganda,3000
+2018,G,P,3371,22699,Otros gastos diversos,200
+2018,G,P,3371,22799,Otros trabajos realizados por otras empresas y profesionales,125000
+2018,G,P,3371,48100,"Premios, becas y pensiones de estudio",1000
+2018,G,P,3380,20300,"Arrendamiento maquinaria, instalaciones y utillaje",30000
+2018,G,P,3380,22609,Actividades culturales y deportivas,85000
+2018,G,P,3380,22699,Otros gastos diversos,12000
+2018,G,P,3380,22799,Otros trabajos realizados por otras empresas,59200
+2018,G,P,3380,48900,Otras transferencias,4000
+2018,G,P,3420,12003,Retribuciones básicas. Sueldos del Grupo C1,11355
+2018,G,P,3420,12004,Retribuciones básicas. Sueldos del Grupo C2,9715
+2018,G,P,3420,12006,Retribuciones básicas. Trienios,3585
+2018,G,P,3420,12100,Retribuciones complementarias. Complemento de destino,11075
+2018,G,P,3420,12101,Retribuciones complementarias. Complemento específico,16710
+2018,G,P,3420,13000,Retribuciones básicas,546590
+2018,G,P,3420,13001,Horas extraordinarias,2500
+2018,G,P,3420,13002,Otras remuneraciones,63960
+2018,G,P,3420,13010,Productividad. Personal laboral,38170
+2018,G,P,3420,14300,Otro personal laboral,25000
+2018,G,P,3420,15000,Complemento de productividad,9630
+2018,G,P,3420,15100,Gratificaciones,1000
+2018,G,P,3420,16000,Seguridad Social. Personal Funcionario,15640
+2018,G,P,3420,16001,Seguridad Social. Personal Laboral,226250
+2018,G,P,3420,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,3420,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,3420,20300,"Arrendamiento maquinaria, instalaciones y utillaje",5000
+2018,G,P,3420,20400,Arrendamiento material de transporte,2000
+2018,G,P,3420,21300,"Reparaciones, mantenimiento y conservación. Instalaciones",25000
+2018,G,P,3420,21600,Repar. Manteni. Equipos procesos de información,2150
+2018,G,P,3420,22100,Suministro energía eléctrica,139600
+2018,G,P,3420,22103,Combustible y carburantes,80500
+2018,G,P,3420,22104,Vestuario,10000
+2018,G,P,3420,22105,Productos alimenticios,100
+2018,G,P,3420,22199,Otros suministros,40000
+2018,G,P,3420,22300,Transportes,22000
+2018,G,P,3420,22400,Primas de seguros,1000
+2018,G,P,3420,22602,Publicidad y propaganda,2000
+2018,G,P,3420,22699,Otros gastos diversos,2000
+2018,G,P,3420,22700,Limpieza y aseo,62950
+2018,G,P,3420,22710,Otros servicios realizados por asociaciones deportivas,125000
+2018,G,P,3420,22799,Otros trabajos realizados por otras empresas y profesionales,170000
+2018,G,P,3420,48000,Otras transferencias corrientes,72000
+2018,G,P,3420,48900,Otras transferencias,60000
+2018,G,P,3420,62300,Maquinaria,0
+2018,G,P,3420,62500,Mobiliario,3000
+2018,G,P,3420,63100,Inversión reposición terrenos y bienes naturales,1254556
+2018,G,P,3420,63201,Inversión de reposición edificios y otras construcciones,0
+2018,G,P,4331,12003,Retribuciones básicas. Sueldos del Grupo C1,11520
+2018,G,P,4331,12006,Retribuciones básicas. Trienios,2750
+2018,G,P,4331,12100,Retribuciones complementarias. Complemento de destino,6245
+2018,G,P,4331,12101,Retribuciones complementarias. Complemento específico,9475
+2018,G,P,4331,13000,Retribuciones básicas,29120
+2018,G,P,4331,15000,Productividad,6500
+2018,G,P,4331,15100,Gratificaciones,1000
+2018,G,P,4331,16000,Seguridad Social. Personal Funcionario,9190
+2018,G,P,4331,16001,Seguridad Social. Personal Laboral,9000
+2018,G,P,4331,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,4331,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,4331,22199,Otros suministros,500
+2018,G,P,4331,22602,Publicidad y propaganda,12000
+2018,G,P,4331,22699,Otros gastos diversos,10000
+2018,G,P,4331,22799,Otros trabajos realizados por otras empresas y profesionales,42000
+2018,G,P,4331,48900,Otras transferencias Subvenciones,25000
+2018,G,P,4331,62300,Maquinaria,0
+2018,G,P,4910,13000,Retribuciones básicas,101590
+2018,G,P,4910,13010,Productividad. Personal laboral,4780
+2018,G,P,4910,16001,Seguridad Social. Personal laboral,33050
+2018,G,P,4910,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,4910,21600,Reparaciones y mantenimiento equipos proces. Informáticos,60000
+2018,G,P,4910,22199,Otros suministros,9000
+2018,G,P,4910,22602,Publicidad y propaganda,26000
+2018,G,P,4910,22699,Otros gastos diversos,500
+2018,G,P,4910,22799,Otros trabajos realizados por otras empresas y profesionales,156695
+2018,G,P,4910,48000,"Premios, becas y pensiones de estudio",300
+2018,G,P,4910,62300,"Maquinaria, instalaciones y utillaje",1000
+2018,G,P,9120,10000,Retribuciones órganos de gobierno,418755
+2018,G,P,9120,11000,Retribuciones personal eventual,107100
+2018,G,P,9120,12003,Retribuciones básicas. Sueldos del Grupo C1,11590
+2018,G,P,9120,12004,Retribuciones básicas. Sueldos del Grupo C2,9650
+2018,G,P,9120,12006,Retribuciones básicas. Trienios,4980
+2018,G,P,9120,12100,Retribuciones complementarias. Complemento de destino,11075
+2018,G,P,9120,12101,Retribuciones complementarias. Complemento específico,17910
+2018,G,P,9120,13000,Retribuciones básicas,22420
+2018,G,P,9120,13001,Horas extraordinarias,500
+2018,G,P,9120,13010,Productividad personal laboral,8160
+2018,G,P,9120,15000,Productividad,14370
+2018,G,P,9120,15100,Gratificaciones,5000
+2018,G,P,9120,16000,Seguridad Social. Personal Funcionario,50395
+2018,G,P,9120,16001,Seguridad Social. Personal laboral,9650
+2018,G,P,9120,16003,Seguridad Social. Altos Cargos,132120
+2018,G,P,9120,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,9120,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,9120,22105,Productos alimenticios,200
+2018,G,P,9120,22601,Atenciones protocolarias y representativas,4000
+2018,G,P,9120,22606,"Reuniones, conferencias y cursos",7500
+2018,G,P,9120,22699,Otros gastos diversos,6000
+2018,G,P,9120,23000,Dietas órganos de gobierno,100
+2018,G,P,9120,23100,Locomoción órganos de gobierno,500
+2018,G,P,9120,23300,Otras indemnizaciones,7500
+2018,G,P,9120,48902,Asignaciones a Grupos Políticos,15000
+2018,G,P,9200,12000,Retribuciones básicas. Sueldos del Grupo A1,34920
+2018,G,P,9200,12001,Retribuciones básicas. Sueldos del Grupo A2,14750
+2018,G,P,9200,12003,Retribuciones básicas. Sueldos del Grupo C1,113750
+2018,G,P,9200,12004,Retribuciones básicas. Sueldos del Grupo C2,47675
+2018,G,P,9200,12006,Retribuciones básicas. Trienios,30640
+2018,G,P,9200,12100,Retribuciones complementarias. Complemento de destino,121660
+2018,G,P,9200,12101,Retribuciones complementarias. Complemento específico,192550
+2018,G,P,9200,15000,Complemento de Productividad.,125880
+2018,G,P,9200,15100,Gratificaciones,15000
+2018,G,P,9200,16000,Seguridad Social. Personal Funcionario,158665
+2018,G,P,9200,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,9200,21600,"Reparac. ,manteni. Equipos para procesos informáticos",18000
+2018,G,P,9200,22001,"Prensa, revistas, libros y otras publicaciones",15000
+2018,G,P,9200,22602,Publicidad y propaganda,0
+2018,G,P,9200,22603,Publicación en diarios oficiales,20000
+2018,G,P,9200,22604,Gastos jurídicos,150000
+2018,G,P,9200,22799,Otros trabajos realizados por otras emp. y profesionales,14000
+2018,G,P,9200,62500,Mobiliario,15000
+2018,G,P,9201,12001,Retribuciones básicas. Sueldos del Grupo A2,14595
+2018,G,P,9201,12003,Retribuciones básicas. Sueldos del Grupo C1,22900
+2018,G,P,9201,12006,Retribuciones básicas. Trienios,4435
+2018,G,P,9201,12100,Retribuciones complementarias. Complemento de destino,21050
+2018,G,P,9201,12101,Retribuciones complementarias. Complemento específico,30120
+2018,G,P,9201,13000,Retribuciones básicas,24725
+2018,G,P,9201,13001,Horas extraordinarias,500
+2018,G,P,9201,14300,Otro personal laboral,0
+2018,G,P,9201,15000,Complemento de Productividad.,20935
+2018,G,P,9201,15100,Gratificaciones,1000
+2018,G,P,9201,16000,Seguridad Social. Personal Funcionario,31405
+2018,G,P,9201,16001,Seguridad Social. Personal Laboral,7650
+2018,G,P,9201,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,9201,16300,Formacion y perfeccionamiento personal laboral,250
+2018,G,P,9201,20300,Arrendamiento maquinaria,20610
+2018,G,P,9201,21300,"Reparaciones, mantenimiento y conservación. Maquinaría, inst",13850
+2018,G,P,9201,21600,"Reparaciones, mantenimiento y cons. Equipamiento procesos",70295
+2018,G,P,9201,22000,Material de oficina no inventariable,12000
+2018,G,P,9201,22002,Material informático no inventariable,5000
+2018,G,P,9201,22203,Comunicaciones informáticas,21000
+2018,G,P,9201,22799,Otros trabajos realizados por otras empresas y profesionales,1000
+2018,G,P,9201,62600,Equipos para Procesos de Información,58000
+2018,G,P,9201,64100,Gastos en aplicaciones informáticas,5000
+2018,G,P,9202,12003,Retribuciones básicas. Sueldos del Grupo C1,7090
+2018,G,P,9202,12005,Retribuciones básicas. Sueldos del Grupo E,17100
+2018,G,P,9202,12006,Retribuciones básicas. Trienios,910
+2018,G,P,9202,12100,Retribuciones complementarias. Complemento de destino,13110
+2018,G,P,9202,12101,Retribuciones complementaras. Complemento específico,21200
+2018,G,P,9202,12103,Otros complementos (costes funcionarización),10000
+2018,G,P,9202,13000,Retribuciones básicas,18750
+2018,G,P,9202,13001,Horas extraordinarias,500
+2018,G,P,9202,14300,Otro personal laboral,100000
+2018,G,P,9202,15000,Complemento de Productividad.,11910
+2018,G,P,9202,15100,Gratificaciones,2000
+2018,G,P,9202,16000,Seguridad Social. Personal Funcionario,31190
+2018,G,P,9202,16001,Seguridad Social. Personal laboral,5800
+2018,G,P,9202,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,9202,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,9202,20300,"Arrendamientos de maquinaria, instalaciones y utillaje",1500
+2018,G,P,9202,20400,Arrendamientos. Material de Transporte,5255
+2018,G,P,9202,20900,Cánones,5000
+2018,G,P,9202,21300,"Reparaciones, mantenimiento y conservación. Maquinaría, inst",88000
+2018,G,P,9202,21400,"Reparaciones, mantenimiento y conservación. Material de tran",3500
+2018,G,P,9202,22000,Material de oficina no inventariable,29785
+2018,G,P,9202,22001,"Prensa, revistas, libros y otras publicaciones",1000
+2018,G,P,9202,22100,Suministro energía eléctrica,96700
+2018,G,P,9202,22101,Suministro agua,100000
+2018,G,P,9202,22103,Suministro combustible y carburantes,27560
+2018,G,P,9202,22106,Productos farmacéuticos y material sanitario,100
+2018,G,P,9202,22110,Productos de limpieza y aseo,100
+2018,G,P,9202,22199,Otros suministros,20000
+2018,G,P,9202,22200,Servicios de telecomunicaciones,176382
+2018,G,P,9202,22201,Servicios postales,60000
+2018,G,P,9202,22202,Telegráficas,100
+2018,G,P,9202,22300,Transportes,1000
+2018,G,P,9202,22400,Primas de seguros,170000
+2018,G,P,9202,22500,Tributos Estatales,8100
+2018,G,P,9202,22601,Atenciones protocolarias y representativas,100
+2018,G,P,9202,22603,Publicación en diarios oficiales,20000
+2018,G,P,9202,22606,"Reuniones, conferencias y cursos",300
+2018,G,P,9202,22610,Sanciones,100
+2018,G,P,9202,22699,Otros gastos diversos,2000
+2018,G,P,9202,22700,Limpieza y aseo,137100
+2018,G,P,9202,22799,Otros trabajos realizados por otras empresas,50000
+2018,G,P,9202,23130,Locomoción del personal,5000
+2018,G,P,9202,62300,"Maquinaria, instalaciones y utillaje",0
+2018,G,P,9202,62500,Mobiliario,15000
+2018,G,P,9250,12003,Retribuciones básicas. Sueldos del Grupo C1,22790
+2018,G,P,9250,12004,Retribuciones básicas. Sueldos del Grupo C2,9355
+2018,G,P,9250,12006,Retribuciones básicas. Trienios,4610
+2018,G,P,9250,12100,Retribuciones complementarias. Complemento de destino,17320
+2018,G,P,9250,12101,Retribuciones complementarias. Complemento de destino,27380
+2018,G,P,9250,13000,Retribuciones básicas,35570
+2018,G,P,9250,15000,Complemento productividad,17570
+2018,G,P,9250,16000,Seguridad Social. Personal Funcionario,26455
+2018,G,P,9250,16001,Seguridad Social. Personal Laboral,11000
+2018,G,P,9250,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,9250,16300,Formación y perfeccionamiento personal laboral,250
+2018,G,P,9250,21600,Reparac. Mantenimiento equipos procesos informáticos,5000
+2018,G,P,9250,22699,Otros gastos diversos,200
+2018,G,P,9250,22799,Otros trabajos realizados por otras empresas y profesionales,30000
+2018,G,P,9250,48900,Otras transferencias,18000
+2018,G,P,9290,50000,Fondo de Contingencia,200000
+2018,G,P,9310,12000,Retribuciones básicas. Sueldos del Grupo A1,17400
+2018,G,P,9310,12003,Retribuciones básicas. Sueldos del Grupo C1,22950
+2018,G,P,9310,12004,Retribuciones básicas. Sueldos del Grupo C2,28715
+2018,G,P,9310,12006,Retribuciones básicas. Trienios,12580
+2018,G,P,9310,12100,Retribuciones complementarias. Complemento de destino,38850
+2018,G,P,9310,12101,Retribuciones complementarias. Complemento específico,77250
+2018,G,P,9310,15000,Complemento de productividad,58750
+2018,G,P,9310,15100,Gratificaciones,1000
+2018,G,P,9310,16000,Seguridad Social. Personal Funcionario,54550
+2018,G,P,9310,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,9310,21600,Reparac. Mantenimiento equipos procesos informácion,20000
+2018,G,P,9310,22001,"Prensa, revistas, libros y otras publicaciones",500
+2018,G,P,9310,22699,Otros gastos diversos,300
+2018,G,P,9310,22799,Otros trabajos realizados por otras empresas,0
+2018,G,P,9330,63201,"Inversión, reposición edificios y otras construcciones",80000
+2018,G,P,9341,12000,Retribuciones básicas. Sueldos del Grupo A1,17355
+2018,G,P,9341,12003,Retribuciones básicas. Sueldos del Grupo C1,79100
+2018,G,P,9341,12004,Retribuciones básicas. Sueldos del Grupo C2,28450
+2018,G,P,9341,12006,Retribuciones básicas. Trienios,16510
+2018,G,P,9341,12100,Retribuciones complementarias. Complemento de destino,70100
+2018,G,P,9341,12101,Retribuciones complementarias. Complemento específico,124590
+2018,G,P,9341,15000,Complemento de Productividad.,86175
+2018,G,P,9341,15100,Gratificaciones,1000
+2018,G,P,9341,16000,Seguridad Social. Personal Funcionario,96260
+2018,G,P,9310,16200,Formación y perfeccionamiento personal funcionario,250
+2018,G,P,9341,20600,Arrendamientos de equipos para procesos de información,85500
+2018,G,P,9341,21600,Reparaciones y mantenimiento equip. Procesos informáticos,0
+2018,G,P,9341,22001,"Prensa, revistas, libros y otras publicaciones",200
+2018,G,P,9341,22002,Material informático no inventariable,3600
+2018,G,P,9341,22200,Servicios de Telecomunicaciones,2000
+2018,G,P,9341,22603,Publicación en diarios oficiales,1500
+2018,G,P,9341,22708,Convenio AEAT,10000
+2018,G,P,9341,22799,Otros trabajos realizados por otras empresas y profesionales,30000
+2018,G,P,9341,35900,Intereses demora contratistas,
+2018,G,P,9341,62300,"Maquinaria, instalaciones y utillaje",
+2018,G,P,9410,46700,Transferencias a Consorcio de transportes,244725
+2018,G,P,9420,46300,Transferencias a Mancomunidades,451482
